@@ -77,7 +77,7 @@ const keyword = ref('')
           <th scope="row" class="whitespace-nowrap px-6 py-4 font-medium text-gray-900 dark:text-white">
             <a
               class="hover:underline"
-              :title="`Search ${w.word}` in Cambridge Dictionary"
+              :title="`Search ${w.word} in Cambridge Dictionary`"
               :href="`https://dictionary.cambridge.org/dictionary/english-chinese-simplified/${w.word}`"
               target="_blank"
             >{{ w.word }}</a>

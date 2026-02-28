@@ -109,7 +109,7 @@ const curCharpter = computed(() => {
             <th class="whitespace-nowrap px-6 py-4 font-medium text-gray-900 dark:text-white">
               <a
                 class="hover:underline"
-                :title="`Search ${row[0][0]}` in Cambridge Dictionary"
+                :title="`Search ${row[0][0]} in Cambridge Dictionary`"
                 :href="`https://dictionary.cambridge.org/dictionary/english-chinese-simplified/${row[0][0]}`"
                 target="_blank"
               >{{ row[0].join(', ') }}</a>

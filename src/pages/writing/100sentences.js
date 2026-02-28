@@ -5,7 +5,7 @@ const sentences = [
   },
   {
     no: 1,
-    sentence: 'Regular exercise will improve people's self-confidence',
+    sentence: 'Regular exercise will improve people\'s self-confidence',
     translationFromBook: 'Regular exercise can increase one\'s self-confidence',
     chatgpt: 'Frequently exercising can increase one\'s confidence',
     remark: '',
@@ -110,7 +110,7 @@ const sentences = [
   },
   {
     no: 16,
-    sentence: 'Education may determine one's job prospects',
+    sentence: 'Education may determine one\'s job prospects',
     translationFromBook: 'Education may hold the key to one\'s job prospects',
     chatgpt: 'Education might shape one\'s career prospects',
     remark: 'hold the key control, control. prospects chances of success; prospects, future',
@@ -124,7 +124,7 @@ const sentences = [
   },
   {
     no: 18,
-    sentence: 'Building residential towers could help solve cities' congestion problems',
+    sentence: 'Building residential towers could help solve cities\' congestion problems',
     translationFromBook: 'Building apartment blocks helps (to) solve overcrowding in cities',
     chatgpt: 'Constructing residential buildings helps (to) alleviate urban congestion',
     remark: 'alleviate v. alleviate; alleviate; alleviate',
@@ -207,7 +207,7 @@ const sentences = [
     no: 29,
     sentence: 'Rural areas offer people the opportunity to escape the stress and noise of modern life',
     translationFromBook: 'Rural areas provide people with opportunities to escape pressure and noises of modern life',
-    chatgpt: 'Rural areas provide people with opportunities to escape pressure and noise of modern life - Heshu's answer is just the plural word pressure',
+    chatgpt: 'Rural areas provide people with opportunities to escape pressure and noise of modern life - Heshu\'s answer is just the plural word pressure',
     remark: 'Both pressure and noise are countable and uncountable, and ChatGPT means both can be used.',
   },
   {
@@ -487,7 +487,7 @@ const sentences = [
   },
   {
     no: 67,
-    sentence: 'The first priority of poor countries is to meet people's basic survival needs',
+    sentence: 'The first priority of poor countries is to meet people\'s basic survival needs',
     translationFromBook: 'The top priority for deprived countries is to satisfy citizens\' basic needs',
     chatgpt: 'The primary task of impoverished nations is to meet the basic survival needs of their people',
     remark: 'deprive v. take away, snatch away, deprive. \ndeprived adj. Shortage, lack; poor. a ~ area Poverty-stricken area. \nimpoverished adj. Extremely poor; (quality) deteriorated. \nsurvive is a verb',
@@ -501,7 +501,7 @@ const sentences = [
   },
   {
     no: 69,
-    sentence: 'Online shopping has become a common part of many people's daily lives',
+    sentence: 'Online shopping has become a common part of many people\'s daily lives',
     translationFromBook: 'Online shopping has become a normal part of people\'s everyday life.',
     chatgpt: 'Online shopping has become a commonplace aspect of many people\'s daily lives',
     remark: 'become/became/become simple tense/past tense/past participle. \ncommonplace adj./n. Ordinary; common; ordinary; common/cliché; cliché. \nThe plural form of life lives',
@@ -611,7 +611,7 @@ const sentences = [
   },
   {
     no: 83,
-    sentence: 'Using multimedia can increase students' attention and keep them interested in the course',
+    sentence: 'Using multimedia can increase students\' attention and keep them interested in the course',
     translationFromBook: 'Using multimedia tools can improve students\'s concentration and keep them interested',
     chatgpt: 'Using multimedia can enhance students\' attention and keep them interested in the course',
     remark: '',
@@ -650,7 +650,7 @@ const sentences = [
   },
   {
     no: 88,
-    sentence: 'Even if you get a diploma, college students can't make a lot of money',
+    sentence: 'Even if you get a diploma, college students can\'t make a lot of money',
     translationFromBook: 'University students cannot make a decent living even though they have gained qualifications',
     chatgpt: 'Even with a diploma, college students may not be able to earn a lot of money',
     remark: '',

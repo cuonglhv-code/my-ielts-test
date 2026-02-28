@@ -336,8 +336,8 @@ function copyAllError() {
                           <input
                             :id="item.id" autocomplete="off" :class="getInputStyleClass(item)"
                             type="text"
-                            @focusout="onInputFoucsOut($event, item)" 
-                            @focusin="onInputFoucsIn($event, `vocabulary/audio/${category}/${item.word[0]}.mp3`)" 
+                            @focusout="onInputFoucsOut($event, item)"
+                            @focusin="onInputFoucsIn($event, `vocabulary/audio/${category}/${item.word[0]}.mp3`)"
                             @keydown="onInputKeydown"
                           >
                         </template>
@@ -346,7 +346,7 @@ function copyAllError() {
                         <div v-if="!isTrainingModel || item.showSource || (isTrainingModel && isOnlyShowErrors && item.spellError) || isShowSource">
                           <p v-for="w in item.word" :key="w">
                             <a
-                              class="hover:underline" :title="`Search ${w}` in Cambridge Dictionary" target="_blank"
+                              class="hover:underline" :title="`Search ${w} in Cambridge Dictionary`" target="_blank"
                               :href="`https://dictionary.cambridge.org/dictionary/english-chinese-simplified/${w}`"
                             >{{ w }}</a>
                           </p>
