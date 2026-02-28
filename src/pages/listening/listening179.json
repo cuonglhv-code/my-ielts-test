@@ -3,7 +3,7 @@
     "index": 1,
     "word": "reserve",
     "type": "v.",
-    "meaning": "预订",
+    "meaning": "Booking",
     "replace": [
       "book"
     ]
@@ -12,7 +12,7 @@
     "index": 2,
     "word": "in advance",
     "type": "",
-    "meaning": "提前",
+    "meaning": "in advance",
     "replace": [
       "ahead",
       "before"
@@ -22,7 +22,7 @@
     "index": 3,
     "word": "have to",
     "type": "",
-    "meaning": "必须",
+    "meaning": "must",
     "replace": [
       "must",
       "should",
@@ -38,7 +38,7 @@
     "index": 4,
     "word": "adjust",
     "type": "v.",
-    "meaning": "调整；改变",
+    "meaning": "adjust; change",
     "replace": [
       "change",
       "alter",
@@ -51,7 +51,7 @@
     "index": 5,
     "word": "and",
     "type": "conj.",
-    "meaning": "和",
+    "meaning": "and",
     "replace": [
       "and also",
       "as well as",
@@ -63,7 +63,7 @@
     "index": 6,
     "word": "but",
     "type": "conj.",
-    "meaning": "但是",
+    "meaning": "but",
     "replace": [
       "however",
       "yet",
@@ -74,7 +74,7 @@
     "index": 7,
     "word": "because",
     "type": "conj.",
-    "meaning": "因为",
+    "meaning": "because",
     "replace": [
       "why",
       "as a result",
@@ -86,7 +86,7 @@
     "index": 8,
     "word": "diversity",
     "type": "n.",
-    "meaning": "多样性",
+    "meaning": "Diversity",
     "replace": [
       "a variety of",
       "a number of",
@@ -99,7 +99,7 @@
     "index": 9,
     "word": "fee",
     "type": "n.",
-    "meaning": "费用，花销",
+    "meaning": "expenses, expenses",
     "replace": [
       "money",
       "cost",
@@ -115,7 +115,7 @@
     "index": 10,
     "word": "establish",
     "type": "v.",
-    "meaning": "建造",
+    "meaning": "put up",
     "replace": [
       "build",
       "create",
@@ -128,7 +128,7 @@
     "index": 11,
     "word": "transfer",
     "type": "v.",
-    "meaning": "搬，移动",
+    "meaning": "move, move",
     "replace": [
       "move",
       "relocate"
@@ -138,7 +138,7 @@
     "index": 12,
     "word": "habitat",
     "type": "n.",
-    "meaning": "栖息地",
+    "meaning": "habitat",
     "replace": [
       "live",
       "territory"
@@ -148,7 +148,7 @@
     "index": 13,
     "word": "international",
     "type": "adj.",
-    "meaning": "国际的",
+    "meaning": "international",
     "replace": [
       "countries",
       "continents",
@@ -159,7 +159,7 @@
     "index": 14,
     "word": "export",
     "type": "v.",
-    "meaning": "出口",
+    "meaning": "exit",
     "replace": [
       "abroad",
       "overseas"
@@ -169,7 +169,7 @@
     "index": 15,
     "word": "vegetation",
     "type": "n.",
-    "meaning": "植被",
+    "meaning": "vegetation",
     "replace": [
       "plant",
       "tree",
@@ -181,7 +181,7 @@
     "index": 16,
     "word": "animal",
     "type": "n.",
-    "meaning": "动物",
+    "meaning": "animal",
     "replace": [
       "mammal",
       "wildlife",
@@ -193,7 +193,7 @@
     "index": 17,
     "word": "feature",
     "type": "n.",
-    "meaning": "特点",
+    "meaning": "Features",
     "replace": [
       "characteristic",
       "trait",
@@ -204,7 +204,7 @@
     "index": 18,
     "word": "emigrate",
     "type": "v.",
-    "meaning": "迁徙",
+    "meaning": "migration",
     "replace": [
       "move",
       "go away"
@@ -214,7 +214,7 @@
     "index": 19,
     "word": "food",
     "type": "n.",
-    "meaning": "食物",
+    "meaning": "food",
     "replace": [
       "feed on",
       "eat"
@@ -224,7 +224,7 @@
     "index": 20,
     "word": "allergic",
     "type": "adj.",
-    "meaning": "过敏的",
+    "meaning": "allergic",
     "replace": [
       "can't eat"
     ]
@@ -233,7 +233,7 @@
     "index": 21,
     "word": "fitness",
     "type": "n.",
-    "meaning": "健康",
+    "meaning": "healthy",
     "replace": [
       "health",
       "medical",
@@ -246,7 +246,7 @@
     "index": 22,
     "word": "tradition",
     "type": "n.",
-    "meaning": "传统",
+    "meaning": "Tradition",
     "replace": [
       "custom",
       "convention",
@@ -258,7 +258,7 @@
     "index": 23,
     "word": "entertainment",
     "type": "n.",
-    "meaning": "娱乐",
+    "meaning": "entertainment",
     "replace": [
       "recreation",
       "leisure"
@@ -268,7 +268,7 @@
     "index": 24,
     "word": "press",
     "type": "n.",
-    "meaning": "媒体",
+    "meaning": "media",
     "replace": [
       "media",
       "TV",
@@ -280,7 +280,7 @@
     "index": 25,
     "word": "online",
     "type": "n.",
-    "meaning": "网络",
+    "meaning": "network",
     "replace": [
       "Internet",
       "website"
@@ -290,7 +290,7 @@
     "index": 26,
     "word": "publicity",
     "type": "n.",
-    "meaning": "宣传",
+    "meaning": "publicity",
     "replace": [
       "website",
       "media",
@@ -302,7 +302,7 @@
     "index": 27,
     "word": "picture",
     "type": "n.",
-    "meaning": "照片",
+    "meaning": "photo",
     "replace": [
       "photo",
       "photograph",
@@ -314,7 +314,7 @@
     "index": 28,
     "word": "jewellery",
     "type": "n.",
-    "meaning": "珠宝",
+    "meaning": "jewelry",
     "replace": [
       "rings",
       "bracelets",
@@ -329,7 +329,7 @@
     "index": 29,
     "word": "artwork",
     "type": "n.",
-    "meaning": "艺术品",
+    "meaning": "artwork",
     "replace": [
       "painting",
       "drawing",
@@ -340,7 +340,7 @@
     "index": 30,
     "word": "statue",
     "type": "n.",
-    "meaning": "雕像",
+    "meaning": "statue",
     "replace": [
       "sculpture",
       "carving"
@@ -350,7 +350,7 @@
     "index": 31,
     "word": "movie",
     "type": "n.",
-    "meaning": "电影",
+    "meaning": "Movie",
     "replace": [
       "film",
       "documentary",
@@ -361,7 +361,7 @@
     "index": 32,
     "word": "geology",
     "type": "n.",
-    "meaning": "地质学；地质情况",
+    "meaning": "geology; geological conditions",
     "replace": [
       "cliff",
       "fossil",
@@ -373,7 +373,7 @@
     "index": 33,
     "word": "countryside",
     "type": "adj.",
-    "meaning": "乡村的",
+    "meaning": "rural",
     "replace": [
       "rural area"
     ]
@@ -382,7 +382,7 @@
     "index": 34,
     "word": "urban",
     "type": "adj.",
-    "meaning": "城市的",
+    "meaning": "urban",
     "replace": [
       "city",
       "metropolitan"
@@ -392,7 +392,7 @@
     "index": 35,
     "word": "coastline",
     "type": "n.",
-    "meaning": "海岸线",
+    "meaning": "coastline",
     "replace": [
       "shore",
       "seaside"
@@ -402,7 +402,7 @@
     "index": 36,
     "word": "environment",
     "type": "n.",
-    "meaning": "周围环境",
+    "meaning": "surrounding environment",
     "replace": [
       "neighbourhood",
       "surrounding"
@@ -412,7 +412,7 @@
     "index": 37,
     "word": "noisy",
     "type": "adj.",
-    "meaning": "吵闹的",
+    "meaning": "noisy",
     "replace": [
       "disturbing",
       "not quiet"
@@ -422,7 +422,7 @@
     "index": 38,
     "word": "capacity",
     "type": "n.",
-    "meaning": "容量",
+    "meaning": "capacity",
     "replace": [
       "volume",
       "room",
@@ -434,7 +434,7 @@
     "index": 39,
     "word": "outdoor",
     "type": "adj.",
-    "meaning": "户外的",
+    "meaning": "outdoor",
     "replace": [
       "gardens",
       "park",
@@ -445,7 +445,7 @@
     "index": 40,
     "word": "accommodation",
     "type": "n.",
-    "meaning": "住宿",
+    "meaning": "stay",
     "replace": [
       "living",
       "dwelling",
@@ -456,7 +456,7 @@
     "index": 41,
     "word": "place",
     "type": "n.",
-    "meaning": "地点",
+    "meaning": "Place",
     "replace": [
       "where",
       "spot",
@@ -468,7 +468,7 @@
     "index": 42,
     "word": "near",
     "type": "adj.",
-    "meaning": "附近的",
+    "meaning": "nearby",
     "replace": [
       "close",
       "not far from",
@@ -479,7 +479,7 @@
     "index": 43,
     "word": "remote",
     "type": "adj.",
-    "meaning": "偏远的",
+    "meaning": "remote",
     "replace": [
       "isolated",
       "distant"
@@ -489,7 +489,7 @@
     "index": 44,
     "word": "advantage",
     "type": "n.",
-    "meaning": "优点",
+    "meaning": "advantage",
     "replace": [
       "benefit",
       "positive",
@@ -501,7 +501,7 @@
     "index": 45,
     "word": "disadvantage",
     "type": "n.",
-    "meaning": "缺点",
+    "meaning": "shortcoming",
     "replace": [
       "drawback",
       "shortcoming",
@@ -513,7 +513,7 @@
     "index": 46,
     "word": "education",
     "type": "n.",
-    "meaning": "教育",
+    "meaning": "educate",
     "replace": [
       "schools",
       "colleges",
@@ -524,7 +524,7 @@
     "index": 47,
     "word": "ordinary people",
     "type": "",
-    "meaning": "公众",
+    "meaning": "public",
     "replace": [
       "people",
       "inhabitants",
@@ -536,7 +536,7 @@
     "index": 48,
     "word": "student",
     "type": "n.",
-    "meaning": "学生",
+    "meaning": "student",
     "replace": [
       "pupil",
       "undergraduate",
@@ -547,7 +547,7 @@
     "index": 49,
     "word": "purpose",
     "type": "n.",
-    "meaning": "目标",
+    "meaning": "Target",
     "replace": [
       "aim",
       "goal",
@@ -559,7 +559,7 @@
     "index": 50,
     "word": "learn",
     "type": "v.",
-    "meaning": "学习",
+    "meaning": "study",
     "replace": [
       "acquire",
       "get",
@@ -570,7 +570,7 @@
     "index": 51,
     "word": "structure",
     "type": "n.",
-    "meaning": "结构大纲",
+    "meaning": "Structure outline",
     "replace": [
       "outline",
       "framework"
@@ -580,7 +580,7 @@
     "index": 52,
     "word": "reference materials",
     "type": "",
-    "meaning": "参考资料",
+    "meaning": "References",
     "replace": [
       "books",
       "journals",
@@ -591,7 +591,7 @@
     "index": 53,
     "word": "extensive",
     "type": "adj.",
-    "meaning": "广泛的",
+    "meaning": "extensive",
     "replace": [
       "comprehensive",
       "a lot of",
@@ -602,7 +602,7 @@
     "index": 54,
     "word": "expertise",
     "type": "n.",
-    "meaning": "能力，专长",
+    "meaning": "ability, expertise",
     "replace": [
       "ability",
       "skill"
@@ -612,7 +612,7 @@
     "index": 55,
     "word": "group",
     "type": "n.",
-    "meaning": "团队",
+    "meaning": "team",
     "replace": [
       "team"
     ]
@@ -621,7 +621,7 @@
     "index": 56,
     "word": "associate",
     "type": "v.",
-    "meaning": "与……相关",
+    "meaning": "related to",
     "replace": [
       "relate to",
       "connect",
@@ -632,7 +632,7 @@
     "index": 57,
     "word": "approach",
     "type": "n.",
-    "meaning": "方法",
+    "meaning": "method",
     "replace": [
       "way",
       "how",
@@ -643,7 +643,7 @@
     "index": 58,
     "word": "motivate",
     "type": "v.",
-    "meaning": "鼓励，促进",
+    "meaning": "encourage, promote",
     "replace": [
       "encourage",
       "stimulate",
@@ -656,7 +656,7 @@
     "index": 59,
     "word": "improve",
     "type": "v.",
-    "meaning": "提升",
+    "meaning": "promote",
     "replace": [
       "develop",
       "promote"
@@ -666,7 +666,7 @@
     "index": 60,
     "word": "overlook",
     "type": "v.",
-    "meaning": "低估",
+    "meaning": "underestimate",
     "replace": [
       "underestimate",
       "neglect"
@@ -676,7 +676,7 @@
     "index": 61,
     "word": "omit",
     "type": "v.",
-    "meaning": "省掉",
+    "meaning": "omit",
     "replace": [
       "leave out",
       "cancel"
@@ -686,7 +686,7 @@
     "index": 62,
     "word": "find",
     "type": "v.",
-    "meaning": "发现",
+    "meaning": "Discover",
     "replace": [
       "discover",
       "detect",
@@ -699,7 +699,7 @@
     "index": 63,
     "word": "opportunity",
     "type": "n.",
-    "meaning": "机会",
+    "meaning": "Chance",
     "replace": [
       "chance",
       "odds",
@@ -710,7 +710,7 @@
     "index": 64,
     "word": "difficult",
     "type": "adj.",
-    "meaning": "困难的",
+    "meaning": "difficult",
     "replace": [
       "problem",
       "hard",
@@ -722,7 +722,7 @@
     "index": 65,
     "word": "prevent",
     "type": "v.",
-    "meaning": "阻止，避免",
+    "meaning": "prevent, avoid",
     "replace": [
       "avoid",
       "stop",
@@ -735,7 +735,7 @@
     "index": 66,
     "word": "misunderstand",
     "type": "v.",
-    "meaning": "理解错误",
+    "meaning": "misunderstanding",
     "replace": [
       "wrong idea",
       "confuse",
@@ -747,7 +747,7 @@
     "index": 67,
     "word": "try hard",
     "type": "",
-    "meaning": "努力",
+    "meaning": "effort",
     "replace": [
       "make",
       "efforts",
@@ -758,7 +758,7 @@
     "index": 68,
     "word": "feedback",
     "type": "n.",
-    "meaning": "反馈",
+    "meaning": "feedback",
     "replace": [
       "response",
       "reaction",
@@ -769,7 +769,7 @@
     "index": 69,
     "word": "affect",
     "type": "v.",
-    "meaning": "影响",
+    "meaning": "Influence",
     "replace": [
       "impact",
       "influence",
@@ -780,7 +780,7 @@
     "index": 70,
     "word": "analysis",
     "type": "n.",
-    "meaning": "分析，认知",
+    "meaning": "analysis, cognition",
     "replace": [
       "perspective",
       "understand",
@@ -792,7 +792,7 @@
     "index": 71,
     "word": "result",
     "type": "n.",
-    "meaning": "结果",
+    "meaning": "result",
     "replace": [
       "outcome",
       "consequence",
@@ -803,7 +803,7 @@
     "index": 72,
     "word": "handle",
     "type": "v.",
-    "meaning": "处理",
+    "meaning": "deal with",
     "replace": [
       "dealwith",
       "cope with",
@@ -816,7 +816,7 @@
     "index": 73,
     "word": "support",
     "type": "n.",
-    "meaning": "帮助",
+    "meaning": "help",
     "replace": [
       "help",
       "assistance",
@@ -828,7 +828,7 @@
     "index": 74,
     "word": "ideal",
     "type": "adj.",
-    "meaning": "完美的",
+    "meaning": "perfect",
     "replace": [
       "perfect"
     ]
@@ -837,7 +837,7 @@
     "index": 75,
     "word": "rigorous",
     "type": "adj.",
-    "meaning": "严格的",
+    "meaning": "strict",
     "replace": [
       "strict",
       "demanding"
@@ -847,7 +847,7 @@
     "index": 76,
     "word": "restrict",
     "type": "v.",
-    "meaning": "限制",
+    "meaning": "limit",
     "replace": [
       "limit",
       "not permit"
@@ -857,7 +857,7 @@
     "index": 77,
     "word": "similar",
     "type": "adj.",
-    "meaning": "相似的",
+    "meaning": "similar",
     "replace": [
       "like",
       "compare"
@@ -867,7 +867,7 @@
     "index": 78,
     "word": "particular",
     "type": "adj.",
-    "meaning": "特别的",
+    "meaning": "special",
     "replace": [
       "special",
       "in particular",
@@ -878,7 +878,7 @@
     "index": 79,
     "word": "copy",
     "type": "v.",
-    "meaning": "重复",
+    "meaning": "repeat",
     "replace": [
       "repeat",
       "reproduce"
@@ -888,7 +888,7 @@
     "index": 80,
     "word": "statistics",
     "type": "n.",
-    "meaning": "统计学",
+    "meaning": "statistics",
     "replace": [
       "data",
       "figure"
@@ -898,7 +898,7 @@
     "index": 81,
     "word": "maximum",
     "type": "n.",
-    "meaning": "最大值",
+    "meaning": "maximum value",
     "replace": [
       "up to",
       "at most"
@@ -908,7 +908,7 @@
     "index": 82,
     "word": "minimum",
     "type": "n.",
-    "meaning": "最小值",
+    "meaning": "minimum value",
     "replace": [
       "at least"
     ]
@@ -917,7 +917,7 @@
     "index": 83,
     "word": "initial",
     "type": "adj.",
-    "meaning": "最初的，开始的",
+    "meaning": "initial, beginning",
     "replace": [
       "at first",
       "start",
@@ -930,7 +930,7 @@
     "index": 84,
     "word": "limited",
     "type": "adj.",
-    "meaning": "少量的",
+    "meaning": "a small amount",
     "replace": [
       "just a few",
       "a little",
@@ -944,7 +944,7 @@
     "index": 85,
     "word": "shorten",
     "type": "v.",
-    "meaning": "截短",
+    "meaning": "Truncate",
     "replace": [
       "cut down"
     ]
@@ -953,7 +953,7 @@
     "index": 86,
     "word": "decrease",
     "type": "v.",
-    "meaning": "降低",
+    "meaning": "reduce",
     "replace": [
       "lower",
       "reduce",
@@ -967,7 +967,7 @@
     "index": 87,
     "word": "lack",
     "type": "n./v.",
-    "meaning": "缺乏",
+    "meaning": "lack",
     "replace": [
       "shortage",
       "insufficient",
@@ -979,7 +979,7 @@
     "index": 88,
     "word": "large",
     "type": "adj.",
-    "meaning": "大的",
+    "meaning": "big",
     "replace": [
       "big",
       "huge"
@@ -989,7 +989,7 @@
     "index": 89,
     "word": "amount of",
     "type": "",
-    "meaning": "大量",
+    "meaning": "A lot",
     "replace": [
       "lots of",
       "large quantities of",
@@ -1000,7 +1000,7 @@
     "index": 90,
     "word": "majority",
     "type": "n.",
-    "meaning": "绝大部分",
+    "meaning": "Most",
     "replace": [
       "most"
     ]
@@ -1009,7 +1009,7 @@
     "index": 91,
     "word": "double",
     "type": "v.",
-    "meaning": "两倍",
+    "meaning": "double",
     "replace": [
       "twice"
     ]
@@ -1018,7 +1018,7 @@
     "index": 92,
     "word": "more than",
     "type": "",
-    "meaning": "超过",
+    "meaning": "Exceed",
     "replace": [
       "over",
       "beyond",
@@ -1030,7 +1030,7 @@
     "index": 93,
     "word": "at present",
     "type": "",
-    "meaning": "当前",
+    "meaning": "current",
     "replace": [
       "already",
       "existing",
@@ -1042,7 +1042,7 @@
     "index": 94,
     "word": "update",
     "type": "v.",
-    "meaning": "更新",
+    "meaning": "renew",
     "replace": [
       "upgrade",
       "up to date",
@@ -1054,7 +1054,7 @@
     "index": 95,
     "word": "newest",
     "type": "adj.",
-    "meaning": "最新的",
+    "meaning": "latest",
     "replace": [
       "latest"
     ]
@@ -1063,7 +1063,7 @@
     "index": 96,
     "word": "soon",
     "type": "adv.",
-    "meaning": "将来",
+    "meaning": "future",
     "replace": [
       "later",
       "in the future"
@@ -1073,7 +1073,7 @@
     "index": 97,
     "word": "out of date",
     "type": "",
-    "meaning": "过时的",
+    "meaning": "obsolete",
     "replace": [
       "old fashioned"
     ]
@@ -1082,7 +1082,7 @@
     "index": 98,
     "word": "ancient",
     "type": "adj.",
-    "meaning": "古老的，过去的",
+    "meaning": "ancient, past",
     "replace": [
       "medieval",
       "in the past",
@@ -1097,7 +1097,7 @@
     "index": 99,
     "word": "temporary",
     "type": "adj.",
-    "meaning": "暂时的",
+    "meaning": "temporary",
     "replace": [
       "a short time"
     ]
@@ -1106,7 +1106,7 @@
     "index": 100,
     "word": "deadline",
     "type": "n.",
-    "meaning": "截止时间",
+    "meaning": "Deadline",
     "replace": [
       "time pressure",
       "on time"
@@ -1116,7 +1116,7 @@
     "index": 101,
     "word": "permanent",
     "type": "adj.",
-    "meaning": "长久的",
+    "meaning": "long lasting",
     "replace": [
       "long-lasting"
     ]
@@ -1125,7 +1125,7 @@
     "index": 102,
     "word": "more often",
     "type": "",
-    "meaning": "频繁",
+    "meaning": "frequently",
     "replace": [
       "frequent"
     ]
@@ -1134,7 +1134,7 @@
     "index": 103,
     "word": "annual",
     "type": "adj.",
-    "meaning": "年度的",
+    "meaning": "annual",
     "replace": [
       "every year"
     ]
@@ -1143,7 +1143,7 @@
     "index": 104,
     "word": "every month",
     "type": "",
-    "meaning": "每个月",
+    "meaning": "every month",
     "replace": [
       "monthly",
       "four weeks"
@@ -1153,7 +1153,7 @@
     "index": 105,
     "word": "every day",
     "type": "",
-    "meaning": "每天",
+    "meaning": "every day",
     "replace": [
       "daily"
     ]
@@ -1162,7 +1162,7 @@
     "index": 106,
     "word": "classify",
     "type": "v.",
-    "meaning": "分类",
+    "meaning": "Classification",
     "replace": [
       "category",
       "sort",
@@ -1174,7 +1174,7 @@
     "index": 107,
     "word": "entrance",
     "type": "n.",
-    "meaning": "入口",
+    "meaning": "Entrance",
     "replace": [
       "access",
       "main gate",
@@ -1185,7 +1185,7 @@
     "index": 108,
     "word": "behind",
     "type": "prep.",
-    "meaning": "在……后面",
+    "meaning": "behind",
     "replace": [
       "back",
       "rear"
@@ -1195,7 +1195,7 @@
     "index": 109,
     "word": "below",
     "type": "prep.",
-    "meaning": "在……下面",
+    "meaning": "under",
     "replace": [
       "under"
     ]
@@ -1204,7 +1204,7 @@
     "index": 110,
     "word": "beside",
     "type": "prep.",
-    "meaning": "在……旁边",
+    "meaning": "next to",
     "replace": [
       "next to",
       "near",
@@ -1215,7 +1215,7 @@
     "index": 111,
     "word": "available",
     "type": "adj.",
-    "meaning": "可用的",
+    "meaning": "available",
     "replace": [
       "have",
       "accessible",
@@ -1227,7 +1227,7 @@
     "index": 112,
     "word": "boring",
     "type": "adj.",
-    "meaning": "无趣的",
+    "meaning": "boring",
     "replace": [
       "not interesting",
       "boredom"
@@ -1237,7 +1237,7 @@
     "index": 113,
     "word": "trend",
     "type": "n.",
-    "meaning": "倾向",
+    "meaning": "tendency",
     "replace": [
       "possibility",
       "likely",
@@ -1248,7 +1248,7 @@
     "index": 114,
     "word": "risky",
     "type": "adj.",
-    "meaning": "危险的",
+    "meaning": "dangerous",
     "replace": [
       "dangerous",
       "not safe",
@@ -1259,7 +1259,7 @@
     "index": 115,
     "word": "poisonous",
     "type": "adj.",
-    "meaning": "有毒的",
+    "meaning": "poisonous",
     "replace": [
       "toxic",
       "dangerous"
@@ -1269,7 +1269,7 @@
     "index": 116,
     "word": "warning",
     "type": "n.",
-    "meaning": "警报",
+    "meaning": "alarm",
     "replace": [
       "alarm",
       "alert"
@@ -1279,7 +1279,7 @@
     "index": 117,
     "word": "care",
     "type": "v.",
-    "meaning": "谨慎",
+    "meaning": "cautious",
     "replace": [
       "caution"
     ]
@@ -1288,7 +1288,7 @@
     "index": 118,
     "word": "steal",
     "type": "v.",
-    "meaning": "偷窃",
+    "meaning": "theft",
     "replace": [
       "theft"
     ]
@@ -1297,7 +1297,7 @@
     "index": 119,
     "word": "protect",
     "type": "v.",
-    "meaning": "保护",
+    "meaning": "Protect",
     "replace": [
       "safeguard",
       "shelter",
@@ -1308,7 +1308,7 @@
     "index": 120,
     "word": "injury",
     "type": "n.",
-    "meaning": "伤害",
+    "meaning": "harm",
     "replace": [
       "harm",
       "hurt",
@@ -1321,7 +1321,7 @@
     "index": 121,
     "word": "military",
     "type": "adj.",
-    "meaning": "军事的",
+    "meaning": "military",
     "replace": [
       "battle",
       "weapon",
@@ -1332,7 +1332,7 @@
     "index": 122,
     "word": "tactics",
     "type": "n.",
-    "meaning": "策略",
+    "meaning": "Strategy",
     "replace": [
       "strategy",
       "method"
@@ -1342,7 +1342,7 @@
     "index": 123,
     "word": "rely on",
     "type": "",
-    "meaning": "依靠",
+    "meaning": "rely on",
     "replace": [
       "depend on",
       "count on"
@@ -1352,7 +1352,7 @@
     "index": 124,
     "word": "travel",
     "type": "n.",
-    "meaning": "旅行",
+    "meaning": "travel",
     "replace": [
       "tourism",
       "trip",
@@ -1364,7 +1364,7 @@
     "index": 125,
     "word": "space travel",
     "type": "",
-    "meaning": "空间旅行",
+    "meaning": "space travel",
     "replace": [
       "aircraft",
       "rocket",
@@ -1375,7 +1375,7 @@
     "index": 126,
     "word": "transport",
     "type": "n.",
-    "meaning": "交通",
+    "meaning": "transportation",
     "replace": [
       "vehicle",
       "bus",
@@ -1390,7 +1390,7 @@
     "index": 127,
     "word": "specific",
     "type": "adj.",
-    "meaning": "具体的",
+    "meaning": "specific",
     "replace": [
       "detail",
       "particular",
@@ -1401,7 +1401,7 @@
     "index": 128,
     "word": "request",
     "type": "v.",
-    "meaning": "询问",
+    "meaning": "ask",
     "replace": [
       "ask for",
       "inquiry"
@@ -1411,7 +1411,7 @@
     "index": 129,
     "word": "clear",
     "type": "adj.",
-    "meaning": "清晰地",
+    "meaning": "clearly",
     "replace": [
       "definitive"
     ]
@@ -1420,7 +1420,7 @@
     "index": 130,
     "word": "freeze",
     "type": "v.",
-    "meaning": "结冰",
+    "meaning": "freeze",
     "replace": [
       "froze",
       "ice",
@@ -1432,7 +1432,7 @@
     "index": 131,
     "word": "organization",
     "type": "n.",
-    "meaning": "公司",
+    "meaning": "company",
     "replace": [
       "business",
       "company",
@@ -1443,7 +1443,7 @@
     "index": 132,
     "word": "organize",
     "type": "v.",
-    "meaning": "组织，安排",
+    "meaning": "organize, arrange",
     "replace": [
       "arrange",
       "plan"
@@ -1453,7 +1453,7 @@
     "index": 133,
     "word": "produce",
     "type": "v.",
-    "meaning": "产生",
+    "meaning": "produce",
     "replace": [
       "generate",
       "make"
@@ -1463,7 +1463,7 @@
     "index": 134,
     "word": "administer",
     "type": "v.",
-    "meaning": "管理，治理",
+    "meaning": "management, governance",
     "replace": [
       "manage"
     ]
@@ -1472,7 +1472,7 @@
     "index": 135,
     "word": "occupation",
     "type": "n.",
-    "meaning": "职位",
+    "meaning": "Position",
     "replace": [
       "profession",
       "job"
@@ -1482,7 +1482,7 @@
     "index": 136,
     "word": "all ages",
     "type": "",
-    "meaning": "所有年龄的人",
+    "meaning": "people of all ages",
     "replace": [
       "young and old"
     ]
@@ -1491,7 +1491,7 @@
     "index": 137,
     "word": "youth",
     "type": "n.",
-    "meaning": "年轻",
+    "meaning": "young",
     "replace": [
       "young",
       "boy",
@@ -1503,7 +1503,7 @@
     "index": 138,
     "word": "mate",
     "type": "n.",
-    "meaning": "伙伴",
+    "meaning": "partner",
     "replace": [
       "friend",
       "peer"
@@ -1513,7 +1513,7 @@
     "index": 139,
     "word": "staff",
     "type": "n.",
-    "meaning": "员工",
+    "meaning": "staff",
     "replace": [
       "recruit",
       "worker",
@@ -1524,7 +1524,7 @@
     "index": 140,
     "word": "sale",
     "type": "v.",
-    "meaning": "销售",
+    "meaning": "Sale",
     "replace": [
       "retail"
     ]
@@ -1533,7 +1533,7 @@
     "index": 141,
     "word": "cheap",
     "type": "adj.",
-    "meaning": "便宜的",
+    "meaning": "cheap",
     "replace": [
       "low price"
     ]
@@ -1542,7 +1542,7 @@
     "index": 142,
     "word": "discount",
     "type": "n.",
-    "meaning": "打折",
+    "meaning": "Discount",
     "replace": [
       "10% off",
       "on sale"
@@ -1552,7 +1552,7 @@
     "index": 143,
     "word": "round",
     "type": "n.",
-    "meaning": "圆",
+    "meaning": "round",
     "replace": [
       "curve",
       "circle"
@@ -1562,7 +1562,7 @@
     "index": 144,
     "word": "order",
     "type": "n.",
-    "meaning": "顺序",
+    "meaning": "order",
     "replace": [
       "sequence"
     ]
@@ -1571,7 +1571,7 @@
     "index": 145,
     "word": "renovate",
     "type": "v.",
-    "meaning": "修理；翻新",
+    "meaning": "repair; renovate",
     "replace": [
       "fix",
       "repair"
@@ -1581,7 +1581,7 @@
     "index": 146,
     "word": "alone",
     "type": "adj.",
-    "meaning": "单独的",
+    "meaning": "alone",
     "replace": [
       "single",
       "by themselves"
@@ -1591,7 +1591,7 @@
     "index": 147,
     "word": "hospitality",
     "type": "n.",
-    "meaning": "招待",
+    "meaning": "entertain",
     "replace": [
       "treatment",
       "prepare refreshment"
@@ -1601,7 +1601,7 @@
     "index": 148,
     "word": "shape like",
     "type": "",
-    "meaning": "像",
+    "meaning": "picture",
     "replace": [
       "look like",
       "seem"
@@ -1611,7 +1611,7 @@
     "index": 149,
     "word": "depress",
     "type": "v.",
-    "meaning": "失望，使沮丧",
+    "meaning": "disappoint, deject",
     "replace": [
       "disappoint",
       "dispirit",
@@ -1623,7 +1623,7 @@
     "index": 150,
     "word": "well-known",
     "type": "adj.",
-    "meaning": "有名的",
+    "meaning": "famous",
     "replace": [
       "famous",
       "fame"
@@ -1633,7 +1633,7 @@
     "index": 151,
     "word": "specialize in",
     "type": "",
-    "meaning": "专注于",
+    "meaning": "focus on",
     "replace": [
       "focus",
       "emphasis",
@@ -1644,7 +1644,7 @@
     "index": 152,
     "word": "part",
     "type": "n.",
-    "meaning": "部分",
+    "meaning": "part",
     "replace": [
       "component",
       "proportion",
@@ -1658,7 +1658,7 @@
     "index": 153,
     "word": "typical",
     "type": "adj.",
-    "meaning": "典型的；普通的",
+    "meaning": "typical; ordinary",
     "replace": [
       "representative",
       "common",
@@ -1669,7 +1669,7 @@
     "index": 154,
     "word": "uncommon",
     "type": "adj.",
-    "meaning": "特别的",
+    "meaning": "special",
     "replace": [
       "special",
       "unique",
@@ -1681,7 +1681,7 @@
     "index": 155,
     "word": "accurately",
     "type": "adv.",
-    "meaning": "精确地",
+    "meaning": "exactly",
     "replace": [
       "precisely"
     ]
@@ -1690,7 +1690,7 @@
     "index": 156,
     "word": "expand",
     "type": "v.",
-    "meaning": "扩建；扩张",
+    "meaning": "expansion; expansion",
     "replace": [
       "add",
       "enlarge",
@@ -1701,7 +1701,7 @@
     "index": 157,
     "word": "climb",
     "type": "v.",
-    "meaning": "上升",
+    "meaning": "rise",
     "replace": [
       "go up",
       "increase"
@@ -1711,7 +1711,7 @@
     "index": 158,
     "word": "enhance",
     "type": "v.",
-    "meaning": "增强",
+    "meaning": "Enhance",
     "replace": [
       "improve",
       "increase"
@@ -1721,7 +1721,7 @@
     "index": 159,
     "word": "power",
     "type": "n.",
-    "meaning": "力量",
+    "meaning": "strength",
     "replace": [
       "force",
       "energy"
@@ -1731,7 +1731,7 @@
     "index": 160,
     "word": "fuel",
     "type": "n.",
-    "meaning": "燃料",
+    "meaning": "fuel",
     "replace": [
       "coal",
       "firewood",
@@ -1743,7 +1743,7 @@
     "index": 161,
     "word": "refurbish",
     "type": "v.",
-    "meaning": "重新装修",
+    "meaning": "redecorate",
     "replace": [
       "redecorate"
     ]
@@ -1752,7 +1752,7 @@
     "index": 162,
     "word": "preference",
     "type": "n.",
-    "meaning": "偏爱；优先权",
+    "meaning": "preference; priority",
     "replace": [
       "like",
       "priority"
@@ -1762,7 +1762,7 @@
     "index": 163,
     "word": "trust",
     "type": "v.",
-    "meaning": "信任",
+    "meaning": "trust",
     "replace": [
       "less suspicious",
       "believe"
@@ -1772,7 +1772,7 @@
     "index": 164,
     "word": "computer",
     "type": "n.",
-    "meaning": "电脑",
+    "meaning": "computer",
     "replace": [
       "laptop"
     ]
@@ -1781,7 +1781,7 @@
     "index": 165,
     "word": "handy",
     "type": "adj.",
-    "meaning": "方便的",
+    "meaning": "Convenient",
     "replace": [
       "convenient"
     ]
@@ -1790,7 +1790,7 @@
     "index": 166,
     "word": "demonstrate",
     "type": "v.",
-    "meaning": "展示",
+    "meaning": "exhibit",
     "replace": [
       "display",
       "show",
@@ -1801,7 +1801,7 @@
     "index": 167,
     "word": "important",
     "type": "adj.",
-    "meaning": "主要的",
+    "meaning": "main",
     "replace": [
       "significant",
       "major",
@@ -1813,7 +1813,7 @@
     "index": 168,
     "word": "straightforward",
     "type": "adj.",
-    "meaning": "简单直接的",
+    "meaning": "simple and direct",
     "replace": [
       "direct",
       "first-hand",
@@ -1824,7 +1824,7 @@
     "index": 169,
     "word": "disused",
     "type": "adj.",
-    "meaning": "废弃的",
+    "meaning": "abandoned",
     "replace": [
       "empty",
       "abandoned"
@@ -1834,7 +1834,7 @@
     "index": 170,
     "word": "donate",
     "type": "v.",
-    "meaning": "捐赠",
+    "meaning": "Donate",
     "replace": [
       "charity",
       "give"
@@ -1844,7 +1844,7 @@
     "index": 171,
     "word": "work",
     "type": "n.",
-    "meaning": "作品",
+    "meaning": "work",
     "replace": [
       "item"
     ]
@@ -1853,7 +1853,7 @@
     "index": 172,
     "word": "turn",
     "type": "v.",
-    "meaning": "转动",
+    "meaning": "turn",
     "replace": [
       "switch"
     ]
@@ -1862,7 +1862,7 @@
     "index": 173,
     "word": "information",
     "type": "n.",
-    "meaning": "信息",
+    "meaning": "information",
     "replace": [
       "details",
       "data",
@@ -1874,7 +1874,7 @@
     "index": 174,
     "word": "visualize",
     "type": "v.",
-    "meaning": "想象",
+    "meaning": "imagine",
     "replace": [
       "imagine"
     ]
@@ -1883,7 +1883,7 @@
     "index": 175,
     "word": "repetition",
     "type": "n.",
-    "meaning": "重复",
+    "meaning": "repeat",
     "replace": [
       "over and over"
     ]
@@ -1892,7 +1892,7 @@
     "index": 176,
     "word": "poor",
     "type": "adj.",
-    "meaning": "弱的",
+    "meaning": "weak",
     "replace": [
       "weak"
     ]
@@ -1901,7 +1901,7 @@
     "index": 177,
     "word": "durable",
     "type": "adj.",
-    "meaning": "耐用的",
+    "meaning": "Durable",
     "replace": [
       "stronger",
       "longer"
@@ -1911,7 +1911,7 @@
     "index": 178,
     "word": "pollutant",
     "type": "n.",
-    "meaning": "污染物",
+    "meaning": "pollutants",
     "replace": [
       "contaminant"
     ]
@@ -1920,7 +1920,7 @@
     "index": 179,
     "word": "continue",
     "type": "v.",
-    "meaning": "继续",
+    "meaning": "continue",
     "replace": [
       "ahead",
       "go on",

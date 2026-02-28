@@ -11,24 +11,24 @@ import sentences from './100sentences'
         <li class="w-full">
           <a href="/#/writing"
             class="inline-block w-full p-4 text-gray-900 bg-gray-100 border-r border-gray-200 dark:border-gray-700 rounded-s-lg focus:ring-4 focus:ring-blue-300 active focus:outline-none dark:bg-gray-700 dark:text-white"
-            aria-current="page">100 句翻译练习</a>
+            aria-current="page">100 sentence translation exercises</a>
         </li>
         <li class="w-full">
           <a href="/#/writing"
-            class="inline-block w-full p-4 bg-white border-r border-gray-200 dark:border-gray-700 hover:text-gray-700 hover:bg-gray-50 focus:ring-4 focus:ring-blue-300 focus:outline-none dark:hover:text-white dark:bg-gray-800 dark:hover:bg-gray-700">[WIP]雅思大作文</a>
+            class="inline-block w-full p-4 bg-white border-r border-gray-200 dark:border-gray-700 hover:text-gray-700 hover:bg-gray-50 focus:ring-4 focus:ring-blue-300 focus:outline-none dark:hover:text-white dark:bg-gray-800 dark:hover:bg-gray-700">[WIP]IELTS Essay</a>
         </li>
         <li class="w-full">
           <a href="/#/writing"
-            class="inline-block w-full p-4 bg-white border-r border-gray-200 dark:border-gray-700 hover:text-gray-700 hover:bg-gray-50 focus:ring-4 focus:ring-blue-300 focus:outline-none dark:hover:text-white dark:bg-gray-800 dark:hover:bg-gray-700">[WIP]雅思小作文</a>
+            class="inline-block w-full p-4 bg-white border-r border-gray-200 dark:border-gray-700 hover:text-gray-700 hover:bg-gray-50 focus:ring-4 focus:ring-blue-300 focus:outline-none dark:hover:text-white dark:bg-gray-800 dark:hover:bg-gray-700">[WIP]IELTS Essay</a>
         </li>
       </ul>
 
       <div class="items-center justify-between lg:flex ">
         <div class="mb-4 lg:mb-0">
           <h3 class="mb-2 text-xl font-bold text-gray-900 dark:text-white">
-            100 句翻译练习
+            100 sentence translation exercises
           </h3>
-          <span class="text-base font-normal text-gray-500 dark:text-gray-400">能够写出 error-free 的句子</span>
+          <span class="text-base font-normal text-gray-500 dark:text-gray-400">Be able to write error-free sentences</span>
         </div>
       </div>
       <!-- Table -->
@@ -43,14 +43,14 @@ import sentences from './100sentences'
                       #
                     </th>
                     <th class="p-4 text-left text-xs font-medium tracking-wider text-gray-500 dark:text-white">
-                      句子
+                      sentence
                     </th>
                     <th class="p-4 text-left text-xs font-medium tracking-wider text-gray-500 dark:text-white">
-                      翻译
+                      Translate
                     </th>
                   
                     <th class="p-4 text-left text-xs font-medium tracking-wider text-gray-500 dark:text-white">
-                      备注
+                      Remarks
                     </th>
                   </tr>
                 </thead> -->
@@ -70,7 +70,7 @@ import sentences from './100sentences'
                           {{ item.sentence }}
                         </td>
                         <td class="p-4 border-b-1 flex items-center">
-                          <div class="mr-4" title="来自书上标准答案"><i class="i-carbon-book block"></i></div>
+                          <div class="mr-4" title="Standard answers from the book"><i class="i-carbon-book block"></i></div>
                           <div>{{ item.translationFromBook }}</div>
                         </td>
                         <td class="p-4 border-x-1 w-30% whitespace-pre-line" rowspan="2">
@@ -79,7 +79,7 @@ import sentences from './100sentences'
                       </tr>
                       <tr>
                         <td class="p-4 flex items-center">
-                          <div class="mr-4" title="来自 ChatGPT"><i class="i-simple-icons-openai block"></i></div>
+                          <div class="mr-4" title="From ChatGPT"><i class="i-simple-icons-openai block"></i></div>
                           <div>{{ item.chatgpt }}</div>
                         </td>
                       </tr>

@@ -57,7 +57,7 @@ function calcStats() {
   let correct = 0
   if (isTrainingModel.value) {
     const cur = refVocabulary[category.value]
-    // 遍历所有单词的属性
+    // Iterate through the properties of all words
     for (const group of cur.words) {
       for (const item of group) {
         if (item.spellValue) {
@@ -66,17 +66,17 @@ function calcStats() {
           else
             correct++
         }
-        else { missing++ }
+        else {missing++}
       }
     }
   }
-  return `${missing} 个未完成，${correct} 个正确，${error} 个错误`
+  return `${missing} incomplete, ${correct} correct, ${error} errors`
 }
 
 onMounted(() => {
   loaded.value = true
 
-  // 只能同时播放一个音频
+  //Only one audio can be played at the same time
   const audioTags = document.getElementsByTagName('audio')
   for (const audio of audioTags) {
     audio.onplay = () => {
@@ -90,13 +90,13 @@ onMounted(() => {
 })
 
 onUpdated(() => {
-  // 音频再切换 SRC 之后需要调用一下 load() 不然看不到效果
+  // After switching the audio to SRC, you need to call load(), otherwise you will not see the effect.
   for (const el of document.getElementsByTagName('audio'))
     el.load()
 })
 
 document.addEventListener('keydown', (ev) => {
-  // 激活的那个音频可以通过方向键进行快进/退
+  //The activated audio can be fast forwarded/rewinded through the direction keys.
   if (['ArrowLeft', 'ArrowRight', ' '].includes(ev.key)) {
     ev.preventDefault()
     const audioTags = document.getElementsByTagName('audio')
@@ -142,7 +142,7 @@ function onInputKeydown(e) {
   const { key, target } = e
   // console.log(key, target.id)
   if (key === 'Enter') {
-    // 切换到下一个 input
+    //Switch to next input
     document.getElementById((Number(target.id) + 1).toString())?.focus()
   }
 }
@@ -156,7 +156,7 @@ function onInputFoucsOut(e, item) {
   const { target } = e
   const spellValue = target.value.toLowerCase().trim()
   if (spellValue.length < 1) {
-    item.spellValue = ''
+    item.spellValue =''
     item.spellError = false
   }
   else {
@@ -201,9 +201,9 @@ function copyAllError() {
       <div class="items-center justify-between lg:flex">
         <div class="mb-4 lg:mb-0">
           <h3 class="mb-2 text-xl font-bold text-gray-900 dark:text-white">
-            雅思词汇真经
+            IELTS vocabulary guide
           </h3>
-          <span class="text-base font-normal text-gray-500 dark:text-gray-400">涵盖雅思必备核心词，逻辑词群记忆法</span>
+          <span class="text-base font-normal text-gray-500 dark:text-gray-400">Covers essential core words for IELTS and logical word group memory methods</span>
         </div>
         <div class="items-center sm:flex">
           <div class="flex items-center">
@@ -212,13 +212,13 @@ function copyAllError() {
               class="block w-full flex-1 border border-gray-300 rounded-lg bg-gray-50 p-2.5 text-sm text-gray-900 dark:border-gray-600 focus:border-blue-500 dark:bg-gray-700 dark:text-white focus:ring-blue-500 dark:focus:border-blue-500 dark:focus:ring-blue-500 dark:placeholder-gray-400"
             >
               <!-- <option value="">
-                全部章节
+                All chapters
               </option> -->
               <option v-for="(_, k) in refVocabulary" :key="k" :value="k">
                 {{ k }}
               </option>
             </select>
-            <!-- <input type="text" name="email" class="ml-3 block w-full border border-gray-300 rounded-lg bg-gray-50 p-2.5 text-gray-900 dark:border-gray-600 focus:border-primary-500 dark:bg-gray-700 sm:text-sm dark:text-white focus:ring-primary-500 dark:focus:border-primary-500 dark:focus:ring-primary-500 dark:placeholder-gray-400" placeholder="关键词"> -->
+            <!-- <input type="text" name="email" class="ml-3 block w-full border border-gray-300 rounded-lg bg-gray-50 p-2.5 text-gray-900 dark:border-gray-600 focus:border-primary-500 dark:bg-gray-700 sm:text-sm dark:text-white focus:ring-primary-500 dark:focus:border-primary-500 dark:focus:ring-primary-500 dark:placeholder-gray-400" placeholder="keywords"> -->
             <!-- <div class="relative ml-2 flex-1">
               <div class="pointer-events-none absolute inset-y-0 left-0 flex items-center pl-3">
                 <svg class="h-4 w-4 text-gray-500 dark:text-gray-400" aria-hidden="true"
@@ -236,28 +236,28 @@ function copyAllError() {
               <div
                 class="peer relative h-6 w-11 rounded-full bg-gray-200 after:absolute after:start-[2px] after:top-[2px] after:h-5 after:w-5 after:border after:border-gray-300 dark:border-gray-600 after:rounded-full after:bg-white dark:bg-gray-700 peer-checked:bg-blue-600 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300 after:transition-all after:content-[''] peer-checked:after:translate-x-full peer-checked:after:border-white dark:peer-focus:ring-blue-800 rtl:peer-checked:after:-translate-x-full"
               />
-              <span class="ms-3 text-sm font-medium text-gray-900 dark:text-gray-300">练习模式</span>
+              <span class="ms-3 text-sm font-medium text-gray-900 dark:text-gray-300">Practice mode</span>
             </label>
             <label v-if="isTrainingModel" class="ml-2 inline-flex cursor-pointer items-center">
               <input v-model="isShowMeaning" type="checkbox" class="peer sr-only">
               <div
                 class="peer relative h-6 w-11 rounded-full bg-gray-200 after:absolute after:start-[2px] after:top-[2px] after:h-5 after:w-5 after:border after:border-gray-300 dark:border-gray-600 after:rounded-full after:bg-white dark:bg-gray-700 peer-checked:bg-blue-600 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300 after:transition-all after:content-[''] peer-checked:after:translate-x-full peer-checked:after:border-white dark:peer-focus:ring-blue-800 rtl:peer-checked:after:-translate-x-full"
               />
-              <span class="ms-3 text-sm font-medium text-gray-900 dark:text-gray-300">释义</span>
+              <span class="ms-3 text-sm font-medium text-gray-900 dark:text-gray-300">Definition</span>
             </label>
             <label v-if="isTrainingModel" class="ml-2 inline-flex cursor-pointer items-center">
               <input v-model="isShowSource" type="checkbox" class="peer sr-only">
               <div
                 class="peer relative h-6 w-11 rounded-full bg-gray-200 after:absolute after:start-[2px] after:top-[2px] after:h-5 after:w-5 after:border after:border-gray-300 dark:border-gray-600 after:rounded-full after:bg-white dark:bg-gray-700 peer-checked:bg-blue-600 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300 after:transition-all after:content-[''] peer-checked:after:translate-x-full peer-checked:after:border-white dark:peer-focus:ring-blue-800 rtl:peer-checked:after:-translate-x-full"
               />
-              <span class="ms-3 text-sm font-medium text-gray-900 dark:text-gray-300">原词</span>
+              <span class="ms-3 text-sm font-medium text-gray-900 dark:text-gray-300">Original word</span>
             </label>
             <label v-if="isTrainingModel" class="ml-2 inline-flex cursor-pointer items-center">
               <input v-model="isAutoPlayWordAudio" type="checkbox" class="peer sr-only">
               <div
                 class="peer relative h-6 w-11 rounded-full bg-gray-200 after:absolute after:start-[2px] after:top-[2px] after:h-5 after:w-5 after:border after:border-gray-300 dark:border-gray-600 after:rounded-full after:bg-white dark:bg-gray-700 peer-checked:bg-blue-600 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300 after:transition-all after:content-[''] peer-checked:after:translate-x-full peer-checked:after:border-white dark:peer-focus:ring-blue-800 rtl:peer-checked:after:-translate-x-full"
               />
-              <span class="ms-3 text-sm font-medium text-gray-900 dark:text-gray-300">自动播放</span>
+              <span class="ms-3 text-sm font-medium text-gray-900 dark:text-gray-300">Autoplay</span>
             </label>
           </div>
         </div>
@@ -277,19 +277,19 @@ function copyAllError() {
                       <br>
                     </th>
                     <th class="p-4 text-left text-xs font-medium tracking-wider text-gray-500 dark:text-white">
-                      词
+                      word
                     </th>
                     <th class="w-0 text-left text-xs font-medium text-gray-500 dark:text-white">
-                      词性
+                      part of speech
                     </th>
                     <th class="p-4 text-left text-xs font-medium tracking-wider text-gray-500 dark:text-white">
-                      词义
+                      meaning
                     </th>
                     <th class="p-4 text-left text-xs font-medium tracking-wider text-gray-500 dark:text-white">
-                      例句
+                      Example sentences
                     </th>
                     <th class="p-4 text-left text-xs font-medium tracking-wider text-gray-500 dark:text-white">
-                      拓展
+                      Expand
                     </th>
                   </tr>
                 </thead>
@@ -302,7 +302,7 @@ function copyAllError() {
                       <div class="flex flex-row">
                         <div class="flex flex-1 items-center">
                           <span class="text-lg">{{ category }}</span>
-                          （ {{ refVocabulary[category].groupCount }} 组 {{ refVocabulary[category].wordCount }} 个词 ）
+                          ( {{ refVocabulary[category].groupCount }} group {{ refVocabulary[category].wordCount }} words )
                         </div>
                         <div class="justify-items-end">
                           <audio controls class="chapter">
@@ -331,7 +331,7 @@ function copyAllError() {
                         <template v-if="isTrainingModel">
                           <i
                             :class="`${item.showSource ? 'i-ph-eye-slash-bold' : 'i-ph-eye-bold'} inline-block cursor-pointer ml-4`"
-                            title="显示原词" @click="item.showSource = !item.showSource"
+                            title="Show original word" @click="item.showSource = !item.showSource"
                           />
                           <input
                             :id="item.id" autocomplete="off" :class="getInputStyleClass(item)"
@@ -346,7 +346,7 @@ function copyAllError() {
                         <div v-if="!isTrainingModel || item.showSource || (isTrainingModel && isOnlyShowErrors && item.spellError) || isShowSource">
                           <p v-for="w in item.word" :key="w">
                             <a
-                              class="hover:underline" :title="`在剑桥词典中查询 ${w}`" target="_blank"
+                              class="hover:underline" :title="`Search ${w}` in Cambridge Dictionary" target="_blank"
                               :href="`https://dictionary.cambridge.org/dictionary/english-chinese-simplified/${w}`"
                             >{{ w }}</a>
                           </p>
@@ -390,24 +390,20 @@ function copyAllError() {
           <button
             type="button"
             class="rounded-lg bg-blue-700 px-5 py-2.5 text-sm font-medium text-white dark:bg-blue-600 hover:bg-blue-800 focus:outline-none focus:ring-4 focus:ring-blue-300 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
-            @click="isFinishTraining = true"
-          >
-            完成练习
+            @click="isFinishTraining = true">
+            Complete the exercise
           </button>
           <button
             type="button"
             class="ml-2 rounded-lg bg-blue-700 px-5 py-2.5 text-sm font-medium text-white dark:bg-blue-600 hover:bg-blue-800 focus:outline-none focus:ring-4 focus:ring-blue-300 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
-            @click="isOnlyShowErrors = !isOnlyShowErrors"
-          >
-            {{ isOnlyShowErrors ? '展示所有' : '仅展示错词' }}
+            @click="isOnlyShowErrors = !isOnlyShowErrors">
+            {{ isOnlyShowErrors ? 'Show all' : 'Only show wrong words' }}
           </button>
           <button
             type="button"
             class="ml-2 rounded-lg bg-blue-700 px-5 py-2.5 text-sm font-medium text-white dark:bg-blue-600 hover:bg-blue-800 focus:outline-none focus:ring-4 focus:ring-blue-300 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
             @click="copyAllError"
-          >
-            拷贝错词
-          </button>
+          >Copied wrong word</button>
         </div>
       </div>
     </div>
