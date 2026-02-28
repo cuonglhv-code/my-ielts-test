@@ -1,37 +1,37 @@
 <script setup lang="ts" generic="T extends any, O extends any">
 const menus = reactive([
   {
-    label: '首页',
+    label: 'Home',
     icon: 'i-carbon-home',
     link: '/',
   },
   {
-    label: '词汇',
+    label: 'Vocabulary',
     icon: 'i-carbon-chart-histogram',
     link: '/vocabulary',
   },
   {
-    label: '语法',
+    label: 'Grammar',
     icon: 'i-carbon-load-balancer-vpc ',
     link: '/grammar',
   },
   {
-    label: '听力',
+    label: 'Listening',
     icon: 'i-carbon-headphones',
     link: '/listening',
   },
   {
-    label: '口语',
+    label: 'Speaking',
     icon: 'i-carbon-microphone',
     link: '/speaking',
   },
   {
-    label: '阅读',
+    label: 'Reading',
     icon: 'i-carbon-white-paper',
     link: '/reading',
   },
   {
-    label: '写作',
+    label: 'Writing',
     icon: 'i-carbon-edit',
     link: '/writing',
   },

@@ -7,40 +7,40 @@ defineOptions({
 
 const menus = reactive([
   {
-    label: '词汇',
+    label: 'Vocabulary',
     icon: 'i-carbon-chart-histogram',
     link: '/vocabulary',
-    desc: '包含雅思词汇真经内容，按场景分组',
+    desc: 'Contains IELTS vocabulary materials, grouped by scenario',
   },
   {
-    label: '语法',
+    label: 'Grammar',
     icon: 'i-carbon-load-balancer-vpc ',
     link: '/grammar',
-    desc: '新东方雅思语法课程，针对雅思考试设计，思维导图',
+    desc: 'New Oriental IELTS grammar course, mind map',
   },
   {
-    label: '听力',
+    label: 'Listening',
     icon: 'i-carbon-headphones',
     link: '/listening',
-    desc: '听力基本概念，179 考点词同义替换和雅思王语料库',
+    desc: 'Basic listening concepts, 179 testing points synonym replacements and corpus',
   },
   {
-    label: '口语',
+    label: 'Speaking',
     icon: 'i-carbon-microphone',
     link: '/speaking',
-    desc: 'TODO 或许加入逻辑链相关内容',
+    desc: 'TODO Maybe add logical chain related content',
   },
   {
-    label: '阅读',
+    label: 'Reading',
     icon: 'i-carbon-white-paper',
     link: '/reading',
-    desc: '538 考点词同义替换',
+    desc: '538 testing points synonym replacements',
   },
   {
-    label: '写作',
+    label: 'Writing',
     icon: 'i-carbon-edit',
     link: '/writing',
-    desc: '100 句翻译练习、大小作文',
+    desc: '100 sentence translation practice, task 1 and task 2',
   },
 ])
 </script>
@@ -54,10 +54,10 @@ const menus = reactive([
         </h1>
         <div class="mb-8 max-w-screen-md lg:mb-16">
           <h2 class="mb-4 text-4xl font-extrabold tracking-tight text-gray-900 dark:text-white">
-            我的 IELTS 备考中心
+            My IELTS Preparation Center
           </h2>
           <p class="text-gray-500 sm:text-xl dark:text-gray-400">
-            Hello, This is Frank. 这里包含我备考准备的一切，从词汇、语法开始...
+            Hello, This is Frank. This contains everything for my test preparation, starting from vocabulary, grammar...
           </p>
         </div>
         <div class="md:grid lg:grid-cols-3 md:grid-cols-2 md:gap-12 space-y-8 md:space-y-0">
