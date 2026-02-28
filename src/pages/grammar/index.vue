@@ -4,31 +4,31 @@
       class="mb-4 border border-gray-200 rounded-lg bg-white p-4 shadow-sm dark:border-gray-700 dark:bg-gray-800 sm:p-6"
     >
       <h3 class="mb-4 text-xl font-semibold dark:text-white">
-        概述
+        Overview
       </h3>
       <div class="mb-4">
-        我尝试过很多语法教程最终都没有学下去，只有这个版本取出了最需要的部分；学完这个就会分析长难句了！
+        I have tried many grammar tutorials but ultimately failed to learn them. Only this version takes out the most necessary parts; after learning this, I will be able to analyze long and difficult sentences!
       </div>
       <h3 class="mb-4 text-xl font-semibold dark:text-white">
-        视频
+        video
       </h3>
       <iframe style="width: 100%; aspect-ratio: 16 / 9;" class="mb-4" src="https://www.youtube.com/embed/bxvyZwACfNk?si=_dXajzpGFCYZ1gOa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       <h3 class="mb-4 text-xl font-semibold dark:text-white">
-        讲义
+        Handouts
       </h3>
       <div class="mb-4">
-        视频配套讲义：
+        Video supporting handouts:
         <a
           class="truncate text-sm font-normal text-primary-700 dark:text-primary-500 hover:underline"
-          href="grammar/雅思基础语法配套课程讲义.pdf" download="雅思基础语法配套课程讲义.pdf"
-        >雅思基础语法配套课程讲义.pdf</a>
+          href="grammar/IELTS basic grammar supporting course handouts.pdf" download="IELTS basic grammar supporting course handouts.pdf"
+        >IELTS basic grammar supporting course handouts.pdf</a>
       </div>
 
       <h3 class="mb-4 text-xl font-semibold dark:text-white">
-        思维导图
+        mind map
       </h3>
       <div class="mb-4">
-        <p>听完课跟着老师画的，使用的百度脑图</p>
+        <p>After listening to the class, follow the teacher’s drawing, using Baidu mind map</p>
         <svg
           class="stroke-none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
           version="1.1" width="100%" style="visibility: visible;" viewBox="0 0 1552 5255"
@@ -1042,8 +1042,7 @@
                 <g id="node_text1" fill="white">
                   <text
                     id="kity_text_22" text-rendering="inherit" font-size="24" dy=".8em" y="2710.699999809265"
-                    x="32.5"
-                  >雅思语法</text>
+                    x="32.5">IELTS Grammar</text>
                 </g>
               </g>
               <g id="kity_g_12">
@@ -1069,8 +1068,7 @@
                 <g id="node_text88" fill="black">
                   <text
                     id="kity_text_697" text-rendering="inherit" font-size="24" dy=".8em" y="810.6999998092651"
-                    x="204.5"
-                  >如何表达一件事</text>
+                    x="204.5">How to express something</text>
                 </g>
                 <g id="node_priority1">
                   <path
@@ -1103,8 +1101,7 @@
                 <g id="node_text8" fill="black">
                   <text
                     id="kity_text_535" text-rendering="inherit" font-size="24" dy=".8em" y="95.69999980926514"
-                    x="413.5"
-                  >简单句的构成</text>
+                    x="413.5">The composition of simple sentences</text>
                 </g>
               </g>
               <g id="minder_node4">
@@ -1122,8 +1119,7 @@
                 <g id="node_text7" fill="black">
                   <text
                     id="kity_text_533" text-rendering="inherit" font-size="24" dy=".8em" y="95.69999980926514"
-                    x="584.5"
-                  >主语+谓语动词</text>
+                    x="584.5">Subject + predicate verb</text>
                 </g>
               </g>
               <g id="minder_node5">
@@ -1141,8 +1137,7 @@
                 <g id="node_text2" fill="black">
                   <text
                     id="kity_text_523" text-rendering="inherit" font-size="24" dy=".8em" y="19.699999809265137"
-                    x="766.5"
-                  >主谓</text>
+                    x="766.5">Subject and predicate</text>
                 </g>
               </g>
               <g id="minder_node6">
@@ -1160,8 +1155,7 @@
                 <g id="node_text3" fill="black">
                   <text
                     id="kity_text_525" text-rendering="inherit" font-size="24" dy=".8em" y="57.69999980926514"
-                    x="766.5"
-                  >主谓宾</text>
+                    x="766.5">Subject, predicate and object</text>
                 </g>
               </g>
               <g id="minder_node7">
@@ -1179,8 +1173,7 @@
                 <g id="node_text4" fill="black">
                   <text
                     id="kity_text_527" text-rendering="inherit" font-size="24" dy=".8em" y="95.69999980926514"
-                    x="766.5"
-                  >主谓双宾</text>
+                    x="766.5">Subject-predicate double-object</text>
                 </g>
               </g>
               <g id="minder_node8">
@@ -1198,8 +1191,7 @@
                 <g id="node_text5" fill="black">
                   <text
                     id="kity_text_529" text-rendering="inherit" font-size="24" dy=".8em" y="133.69999980926514"
-                    x="766.5"
-                  >主谓宾补</text>
+                    x="766.5">Subject-verb-object complement</text>
                 </g>
               </g>
               <g id="minder_node9">
@@ -1217,8 +1209,7 @@
                 <g id="node_text6" fill="black">
                   <text
                     id="kity_text_531" text-rendering="inherit" font-size="24" dy=".8em" y="171.69999980926514"
-                    x="766.5"
-                  >主系表</text>
+                    x="766.5">Main lineage table</text>
                 </g>
               </g>
               <g id="minder_node10">
@@ -1236,8 +1227,7 @@
                 <g id="node_text60" fill="black">
                   <text
                     id="kity_text_641" text-rendering="inherit" font-size="24" dy=".8em" y="630.6999998092651"
-                    x="413.5"
-                  >简单句的核心变化</text>
+                    x="413.5">Core changes in simple sentences</text>
                 </g>
               </g>
               <g id="minder_node11">
@@ -1255,12 +1245,10 @@
                 <g id="node_text59" fill="#ff0000">
                   <text
                     id="kity_text_638" text-rendering="inherit" font-size="24" dy=".8em" font-weight="bold"
-                    y="612.6999998092651" x="631.5"
-                  >谓语动词的变化</text>
+                    y="612.6999998092651" x="631.5">Changes of predicate verbs</text>
                   <text
                     id="kity_text_639" text-rendering="inherit" font-size="24" dy=".8em" font-weight="bold"
-                    y="648.6999998092651" x="631.5"
-                  >（是一个整体）</text>
+                    y="648.6999998092651" x="631.5">(is a whole)</text>
                 </g>
               </g>
               <g id="minder_node12">
@@ -1278,12 +1266,10 @@
                 <g id="node_text32" fill="#ff0000">
                   <text
                     id="kity_text_583" text-rendering="inherit" font-size="24" dy=".8em" font-weight="bold"
-                    y="452.69999980926514" x="825.5"
-                  >时态</text>
+                    y="452.69999980926514" x="825.5">Tense</text>
                   <text
                     id="kity_text_584" text-rendering="inherit" font-size="24" dy=".8em" font-weight="bold"
-                    y="488.69999980926514" x="825.5"
-                  >重点 8 种</text>
+                    y="488.69999980926514" x="825.5">8 key types</text>
                 </g>
               </g>
               <g id="minder_node13">
@@ -1301,8 +1287,7 @@
                 <g id="node_text20" fill="black">
                   <text
                     id="kity_text_559" text-rendering="inherit" font-size="24" dy=".8em" y="313.69999980926514"
-                    x="958.5"
-                  >一般时态</text>
+                    x="958.5">Simple tense</text>
                 </g>
               </g>
               <g id="minder_node14">
@@ -1320,8 +1305,7 @@
                 <g id="node_text10" fill="black">
                   <text
                     id="kity_text_539" text-rendering="inherit" font-size="24" dy=".8em" y="209.69999980926514"
-                    x="1080.5"
-                  >过去</text>
+                    x="1080.5">Past</text>
                 </g>
               </g>
               <g id="minder_node15">
@@ -1358,8 +1342,7 @@
                 <g id="node_text13" fill="black">
                   <text
                     id="kity_text_545" text-rendering="inherit" font-size="24" dy=".8em" y="266.69999980926514"
-                    x="1080.5"
-                  >现在</text>
+                    x="1080.5">Now</text>
                 </g>
               </g>
               <g id="minder_node17">
@@ -1415,8 +1398,7 @@
                 <g id="node_text16" fill="black">
                   <text
                     id="kity_text_551" text-rendering="inherit" font-size="24" dy=".8em" y="342.69999980926514"
-                    x="1080.5"
-                  >将来</text>
+                    x="1080.5">Future</text>
                 </g>
               </g>
               <g id="minder_node20">
@@ -1472,8 +1454,7 @@
                 <g id="node_text19" fill="black">
                   <text
                     id="kity_text_557" text-rendering="inherit" font-size="24" dy=".8em" y="418.69999980926514"
-                    x="1080.5"
-                  >过去将来</text>
+                    x="1080.5">Past Future</text>
                 </g>
               </g>
               <g id="minder_node23">
@@ -1529,8 +1510,7 @@
                 <g id="node_text25" fill="black">
                   <text
                     id="kity_text_569" text-rendering="inherit" font-size="24" dy=".8em" y="494.69999980926514"
-                    x="958.5"
-                  >进行时态</text>
+                    x="958.5">Continuous tense</text>
                 </g>
               </g>
               <g id="minder_node26">
@@ -1548,8 +1528,7 @@
                 <g id="node_text22" fill="black">
                   <text
                     id="kity_text_563" text-rendering="inherit" font-size="24" dy=".8em" y="475.69999980926514"
-                    x="1080.5"
-                  >过去进行</text>
+                    x="1080.5">past continuous</text>
                 </g>
               </g>
               <g id="minder_node27">
@@ -1586,8 +1565,7 @@
                 <g id="node_text24" fill="black">
                   <text
                     id="kity_text_567" text-rendering="inherit" font-size="24" dy=".8em" y="513.6999998092651"
-                    x="1080.5"
-                  >现在进行</text>
+                    x="1080.5">Proceed now</text>
                 </g>
               </g>
               <g id="minder_node29">
@@ -1624,8 +1602,7 @@
                 <g id="node_text30" fill="black">
                   <text
                     id="kity_text_579" text-rendering="inherit" font-size="24" dy=".8em" y="570.6999998092651"
-                    x="958.5"
-                  >完成时态</text>
+                    x="958.5">Perfect tense</text>
                 </g>
               </g>
               <g id="minder_node31">
@@ -1643,8 +1620,7 @@
                 <g id="node_text27" fill="black">
                   <text
                     id="kity_text_573" text-rendering="inherit" font-size="24" dy=".8em" y="551.6999998092651"
-                    x="1080.5"
-                  >过去完成</text>
+                    x="1080.5">Past perfect</text>
                 </g>
               </g>
               <g id="minder_node32">
@@ -1681,8 +1657,7 @@
                 <g id="node_text29" fill="black">
                   <text
                     id="kity_text_577" text-rendering="inherit" font-size="24" dy=".8em" y="589.6999998092651"
-                    x="1080.5"
-                  >现在完成</text>
+                    x="1080.5">Done now</text>
                 </g>
               </g>
               <g id="minder_node34">
@@ -1719,8 +1694,7 @@
                 <g id="node_text31" fill="black">
                   <text
                     id="kity_text_581" text-rendering="inherit" font-size="24" dy=".8em" y="627.6999998092651"
-                    x="958.5"
-                  >完成进行时（很少考察）</text>
+                    x="958.5">Perfect continuous (rarely examined)</text>
                 </g>
               </g>
               <g id="minder_node36">
@@ -1738,8 +1712,7 @@
                 <g id="node_text34" fill="black">
                   <text
                     id="kity_text_588" text-rendering="inherit" font-size="24" dy=".8em" y="665.6999998092651"
-                    x="825.5"
-                  >情态</text>
+                    x="825.5">Modal</text>
                 </g>
               </g>
               <g id="minder_node37">
@@ -1757,8 +1730,7 @@
                 <g id="node_text33" fill="black">
                   <text
                     id="kity_text_586" text-rendering="inherit" font-size="24" dy=".8em" y="665.6999998092651"
-                    x="899.5"
-                  >情态动词+动词原形</text>
+                    x="899.5">Modal verb + verb base form</text>
                 </g>
               </g>
               <g id="minder_node38">
@@ -1776,8 +1748,7 @@
                 <g id="node_text58" fill="#ff0000">
                   <text
                     id="kity_text_636" text-rendering="inherit" font-size="24" dy=".8em" font-weight="bold"
-                    y="808.6999998092651" x="825.5"
-                  >语态</text>
+                    y="808.6999998092651" x="825.5">Voice</text>
                 </g>
               </g>
               <g id="minder_node39">
@@ -1795,8 +1766,7 @@
                 <g id="node_text35" fill="black">
                   <text
                     id="kity_text_590" text-rendering="inherit" font-size="24" dy=".8em" y="704.6999998092651"
-                    x="900.5"
-                  >主动</text>
+                    x="900.5">Active</text>
                 </g>
               </g>
               <g id="minder_node40">
@@ -1814,8 +1784,7 @@
                 <g id="node_text57" fill="black">
                   <text
                     id="kity_text_634" text-rendering="inherit" font-size="24" dy=".8em" y="913.6999998092651"
-                    x="900.5"
-                  >被动</text>
+                    x="900.5">Passive</text>
                 </g>
               </g>
               <g id="minder_node41">
@@ -1833,8 +1802,7 @@
                 <g id="node_text37" fill="black">
                   <text
                     id="kity_text_594" text-rendering="inherit" font-size="24" dy=".8em" y="742.6999998092651"
-                    x="974.5"
-                  >构成</text>
+                    x="974.5">Composition</text>
                 </g>
               </g>
               <g id="minder_node42">
@@ -1871,8 +1839,7 @@
                 <g id="node_text54" fill="black">
                   <text
                     id="kity_text_628" text-rendering="inherit" font-size="24" dy=".8em" y="913.6999998092651"
-                    x="974.5"
-                  >被动与时态结合</text>
+                    x="974.5">Passive and tense combination</text>
                 </g>
               </g>
               <g id="minder_node44">
@@ -1890,8 +1857,7 @@
                 <g id="node_text39" fill="black">
                   <text
                     id="kity_text_598" text-rendering="inherit" font-size="24" dy=".8em" y="780.6999998092651"
-                    x="1168.5"
-                  >过去</text>
+                    x="1168.5">Past</text>
                 </g>
               </g>
               <g id="minder_node45">
@@ -1928,8 +1894,7 @@
                 <g id="node_text41" fill="black">
                   <text
                     id="kity_text_602" text-rendering="inherit" font-size="24" dy=".8em" y="818.6999998092651"
-                    x="1168.5"
-                  >现在</text>
+                    x="1168.5">Now</text>
                 </g>
               </g>
               <g id="minder_node47">
@@ -1966,8 +1931,7 @@
                 <g id="node_text43" fill="black">
                   <text
                     id="kity_text_606" text-rendering="inherit" font-size="24" dy=".8em" y="856.6999998092651"
-                    x="1168.5"
-                  >将来</text>
+                    x="1168.5">Future</text>
                 </g>
               </g>
               <g id="minder_node49">
@@ -2004,8 +1968,7 @@
                 <g id="node_text45" fill="black">
                   <text
                     id="kity_text_610" text-rendering="inherit" font-size="24" dy=".8em" y="894.6999998092651"
-                    x="1168.5"
-                  >过去将来</text>
+                    x="1168.5">Past Future</text>
                 </g>
               </g>
               <g id="minder_node51">
@@ -2042,8 +2005,7 @@
                 <g id="node_text47" fill="black">
                   <text
                     id="kity_text_614" text-rendering="inherit" font-size="24" dy=".8em" y="932.6999998092651"
-                    x="1168.5"
-                  >过去进行</text>
+                    x="1168.5">past continuous</text>
                 </g>
               </g>
               <g id="minder_node53">
@@ -2080,8 +2042,7 @@
                 <g id="node_text49" fill="black">
                   <text
                     id="kity_text_618" text-rendering="inherit" font-size="24" dy=".8em" y="970.6999998092651"
-                    x="1168.5"
-                  >现在进行</text>
+                    x="1168.5">Proceed now</text>
                 </g>
               </g>
               <g id="minder_node55">
@@ -2118,8 +2079,7 @@
                 <g id="node_text51" fill="black">
                   <text
                     id="kity_text_622" text-rendering="inherit" font-size="24" dy=".8em" y="1008.6999998092651"
-                    x="1168.5"
-                  >过去完成</text>
+                    x="1168.5">Past perfect</text>
                 </g>
               </g>
               <g id="minder_node57">
@@ -2156,8 +2116,7 @@
                 <g id="node_text53" fill="black">
                   <text
                     id="kity_text_626" text-rendering="inherit" font-size="24" dy=".8em" y="1046.6999998092651"
-                    x="1168.5"
-                  >现在完成</text>
+                    x="1168.5">Done now</text>
                 </g>
               </g>
               <g id="minder_node59">
@@ -2194,8 +2153,7 @@
                 <g id="node_text56" fill="black">
                   <text
                     id="kity_text_632" text-rendering="inherit" font-size="24" dy=".8em" y="1084.6999998092651"
-                    x="974.5"
-                  >情态</text>
+                    x="974.5">Modal</text>
                 </g>
               </g>
               <g id="minder_node61">
@@ -2213,8 +2171,7 @@
                 <g id="node_text55" fill="black">
                   <text
                     id="kity_text_630" text-rendering="inherit" font-size="24" dy=".8em" y="1084.6999998092651"
-                    x="1048.5"
-                  >情态动词 + be + done</text>
+                    x="1048.5">Modal verb + be + done</text>
                 </g>
               </g>
               <g id="minder_node62">
@@ -2232,8 +2189,7 @@
                 <g id="node_text74" fill="black">
                   <text
                     id="kity_text_669" text-rendering="inherit" font-size="24" dy=".8em" y="1268.6999998092651"
-                    x="413.5"
-                  >简单句的扩展</text>
+                    x="413.5">Expansion of simple sentences</text>
                 </g>
               </g>
               <g id="minder_node63">
@@ -2251,8 +2207,7 @@
                 <g id="node_text68" fill="black">
                   <text
                     id="kity_text_657" text-rendering="inherit" font-size="24" dy=".8em" y="1187.6999998092651"
-                    x="583.5"
-                  >形容词、副词</text>
+                    x="583.5">Adjectives, adverbs</text>
                 </g>
               </g>
               <g id="minder_node64">
@@ -2270,8 +2225,7 @@
                 <g id="node_text63" fill="black">
                   <text
                     id="kity_text_647" text-rendering="inherit" font-size="24" dy=".8em" y="1140.6999998092651"
-                    x="753.5"
-                  >用法</text>
+                    x="753.5">Usage</text>
                 </g>
               </g>
               <g id="minder_node65">
@@ -2289,8 +2243,7 @@
                 <g id="node_text61" fill="black">
                   <text
                     id="kity_text_643" text-rendering="inherit" font-size="24" dy=".8em" y="1121.6999998092651"
-                    x="827.5"
-                  >形容词：修饰名词</text>
+                    x="827.5">Adjective: modify noun</text>
                 </g>
               </g>
               <g id="minder_node66">
@@ -2308,8 +2261,7 @@
                 <g id="node_text62" fill="black">
                   <text
                     id="kity_text_645" text-rendering="inherit" font-size="24" dy=".8em" y="1159.6999998092651"
-                    x="827.5"
-                  >副词：修饰动词/句子/形容词/副词（名词之外的所有）</text>
+                    x="827.5">Adverb: Modify verb/sentence/adjective/adverb (everything except nouns)</text>
                 </g>
               </g>
               <g id="minder_node67">
@@ -2327,8 +2279,7 @@
                 <g id="node_text67" fill="black">
                   <text
                     id="kity_text_655" text-rendering="inherit" font-size="24" dy=".8em" y="1235.6999998092651"
-                    x="753.5"
-                  >3 种比较级</text>
+                    x="753.5">3 types of comparatives</text>
                 </g>
               </g>
               <g id="minder_node68">
@@ -2346,8 +2297,7 @@
                 <g id="node_text64" fill="black">
                   <text
                     id="kity_text_649" text-rendering="inherit" font-size="24" dy=".8em" y="1197.6999998092651"
-                    x="898.5"
-                  >最高级</text>
+                    x="898.5">Superlative</text>
                 </g>
               </g>
               <g id="minder_node69">
@@ -2365,8 +2315,7 @@
                 <g id="node_text65" fill="black">
                   <text
                     id="kity_text_651" text-rendering="inherit" font-size="24" dy=".8em" y="1235.6999998092651"
-                    x="898.5"
-                  >比较级</text>
+                    x="898.5">Comparative</text>
                 </g>
               </g>
               <g id="minder_node70">
@@ -2384,8 +2333,7 @@
                 <g id="node_text66" fill="black">
                   <text
                     id="kity_text_653" text-rendering="inherit" font-size="24" dy=".8em" y="1273.6999998092651"
-                    x="898.5"
-                  >同级比较</text>
+                    x="898.5">Similar comparison</text>
                 </g>
               </g>
               <g id="minder_node71">
@@ -2403,8 +2351,7 @@
                 <g id="node_text73" fill="#ff0000">
                   <text
                     id="kity_text_667" text-rendering="inherit" font-size="24" dy=".8em" font-weight="bold"
-                    y="1349.6999998092651" x="583.5"
-                  >介词短语</text>
+                    y="1349.6999998092651" x="583.5">Prepositional phrase</text>
                 </g>
               </g>
               <g id="minder_node72">
@@ -2422,8 +2369,7 @@
                 <g id="node_text72" fill="black">
                   <text
                     id="kity_text_665" text-rendering="inherit" font-size="24" dy=".8em" y="1349.6999998092651"
-                    x="705.5"
-                  >介词（prep.）+ 名词/代词/doing = 介词短语</text>
+                    x="705.5">Preposition (prep.) + noun/pronoun/doing = prepositional phrase</text>
                 </g>
               </g>
               <g id="minder_node73">
@@ -2441,8 +2387,7 @@
                 <g id="node_text69" fill="black">
                   <text
                     id="kity_text_659" text-rendering="inherit" font-size="24" dy=".8em" y="1311.6999998092651"
-                    x="1205.5"
-                  >表示地点</text>
+                    x="1205.5">Indicates location</text>
                 </g>
               </g>
               <g id="minder_node74">
@@ -2460,8 +2405,7 @@
                 <g id="node_text70" fill="black">
                   <text
                     id="kity_text_661" text-rendering="inherit" font-size="24" dy=".8em" y="1349.6999998092651"
-                    x="1205.5"
-                  >表示时间</text>
+                    x="1205.5">Indicates time</text>
                 </g>
               </g>
               <g id="minder_node75">
@@ -2479,8 +2423,7 @@
                 <g id="node_text71" fill="black">
                   <text
                     id="kity_text_663" text-rendering="inherit" font-size="24" dy=".8em" y="1387.6999998092651"
-                    x="1205.5"
-                  >其他用法</text>
+                    x="1205.5">Other usages</text>
                 </g>
               </g>
               <g id="minder_node76">
@@ -2498,8 +2441,7 @@
                 <g id="node_text87" fill="black">
                   <text
                     id="kity_text_695" text-rendering="inherit" font-size="24" dy=".8em" y="1525.6999998092651"
-                    x="413.5"
-                  >简单句提升</text>
+                    x="413.5">Simple sentence improvement</text>
                 </g>
               </g>
               <g id="minder_node77">
@@ -2517,8 +2459,7 @@
                 <g id="node_text86" fill="#ff0000">
                   <text
                     id="kity_text_693" text-rendering="inherit" font-size="24" dy=".8em" font-weight="bold"
-                    y="1525.6999998092651" x="559.5"
-                  >非谓语动词</text>
+                    y="1525.6999998092651" x="559.5">Non-predicate verb</text>
                 </g>
               </g>
               <g id="minder_node78">
@@ -2536,8 +2477,7 @@
                 <g id="node_text78" fill="black">
                   <text
                     id="kity_text_677" text-rendering="inherit" font-size="24" dy=".8em" y="1463.6999998092651"
-                    x="705.5"
-                  >分类</text>
+                    x="705.5">Category</text>
                 </g>
               </g>
               <g id="minder_node79">
@@ -2612,8 +2552,7 @@
                 <g id="node_text85" fill="black">
                   <text
                     id="kity_text_691" text-rendering="inherit" font-size="24" dy=".8em" y="1587.6999998092651"
-                    x="705.5"
-                  >用途</text>
+                    x="705.5">Purpose</text>
                 </g>
               </g>
               <g id="minder_node83">
@@ -2631,8 +2570,7 @@
                 <g id="node_text82" fill="black">
                   <text
                     id="kity_text_685" text-rendering="inherit" font-size="24" dy=".8em" y="1559.6999998092651"
-                    x="779.5"
-                  >作句子的核心</text>
+                    x="779.5">Make the core of the sentence</text>
                 </g>
               </g>
               <g id="minder_node84">
@@ -2650,8 +2588,7 @@
                 <g id="node_text81" fill="black">
                   <text
                     id="kity_text_683" text-rendering="inherit" font-size="24" dy=".8em" y="1559.6999998092651"
-                    x="950.5"
-                  >相当于名词，作主/宾/表，只能用：</text>
+                    x="950.5">Equivalent to a noun, used as subject/object/table, can only be used:</text>
                 </g>
               </g>
               <g id="minder_node85">
@@ -2707,8 +2644,7 @@
                 <g id="node_text84" fill="black">
                   <text
                     id="kity_text_689" text-rendering="inherit" font-size="24" dy=".8em" y="1616.6999998092651"
-                    x="779.5"
-                  >作句子的扩展</text>
+                    x="779.5">Expansion of sentences</text>
                 </g>
               </g>
               <g id="minder_node88">
@@ -2726,8 +2662,7 @@
                 <g id="node_text83" fill="black">
                   <text
                     id="kity_text_687" text-rendering="inherit" font-size="24" dy=".8em" y="1616.6999998092651"
-                    x="949.5"
-                  >修饰名词/句子，作定语/状语</text>
+                    x="949.5">Modify nouns/sentences and serve as attributives/adverbials</text>
                 </g>
               </g>
               <g id="minder_node89">
@@ -2746,8 +2681,7 @@
                 <g id="node_text188" fill="black">
                   <text
                     id="kity_text_897" text-rendering="inherit" font-size="24" dy=".8em" y="2288.699999809265"
-                    x="204.5"
-                  >如何表达多件事</text>
+                    x="204.5">How to express multiple things</text>
                 </g>
                 <g id="node_priority2">
                   <path
@@ -2780,8 +2714,7 @@
                 <g id="node_text108" fill="black">
                   <text
                     id="kity_text_737" text-rendering="inherit" font-size="24" dy=".8em" y="1941.6999998092651"
-                    x="413.5"
-                  >并列句</text>
+                    x="413.5">Parallel sentence</text>
                 </g>
               </g>
               <g id="minder_node91">
@@ -2799,8 +2732,7 @@
                 <g id="node_text105" fill="black">
                   <text
                     id="kity_text_731" text-rendering="inherit" font-size="24" dy=".8em" y="1841.6999998092651"
-                    x="511.5"
-                  >构成</text>
+                    x="511.5">Composition</text>
                 </g>
               </g>
               <g id="minder_node92">
@@ -2818,8 +2750,7 @@
                 <g id="node_text104" fill="black">
                   <text
                     id="kity_text_729" text-rendering="inherit" font-size="24" dy=".8em" y="1841.6999998092651"
-                    x="586.5"
-                  >多个简单句+并列连词</text>
+                    x="586.5">Multiple simple sentences + coordinating conjunctions</text>
                 </g>
               </g>
               <g id="minder_node93">
@@ -2837,8 +2768,7 @@
                 <g id="node_text103" fill="#ff0000">
                   <text
                     id="kity_text_727" text-rendering="inherit" font-size="24" dy=".8em" font-weight="bold"
-                    y="1841.6999998092651" x="840.5"
-                  >常用并列连词</text>
+                    y="1841.6999998092651" x="840.5">Commonly used coordinating conjunctions</text>
                 </g>
               </g>
               <g id="minder_node94">
@@ -2856,8 +2786,7 @@
                 <g id="node_text92" fill="black">
                   <text
                     id="kity_text_705" text-rendering="inherit" font-size="24" dy=".8em" y="1699.6999998092651"
-                    x="1010.5"
-                  >顺接</text>
+                    x="1010.5">Sequentially</text>
                 </g>
               </g>
               <g id="minder_node95">
@@ -2932,8 +2861,7 @@
                 <g id="node_text95" fill="black">
                   <text
                     id="kity_text_711" text-rendering="inherit" font-size="24" dy=".8em" y="1794.6999998092651"
-                    x="1010.5"
-                  >转折</text>
+                    x="1010.5">Turning</text>
                 </g>
               </g>
               <g id="minder_node99">
@@ -2989,8 +2917,7 @@
                 <g id="node_text99" fill="black">
                   <text
                     id="kity_text_719" text-rendering="inherit" font-size="24" dy=".8em" y="1889.6999998092651"
-                    x="1010.5"
-                  >选择</text>
+                    x="1010.5">Select</text>
                 </g>
               </g>
               <g id="minder_node102">
@@ -3065,8 +2992,7 @@
                 <g id="node_text102" fill="black">
                   <text
                     id="kity_text_725" text-rendering="inherit" font-size="24" dy=".8em" y="1984.6999998092651"
-                    x="1010.5"
-                  >因果</text>
+                    x="1010.5">Cause</text>
                 </g>
               </g>
               <g id="minder_node106">
@@ -3122,8 +3048,7 @@
                 <g id="node_text107" fill="black">
                   <text
                     id="kity_text_735" text-rendering="inherit" font-size="24" dy=".8em" y="2041.6999998092651"
-                    x="511.5"
-                  >省略</text>
+                    x="511.5">Omit</text>
                 </g>
               </g>
               <g id="minder_node109">
@@ -3141,8 +3066,7 @@
                 <g id="node_text106" fill="black">
                   <text
                     id="kity_text_733" text-rendering="inherit" font-size="24" dy=".8em" y="2041.6999998092651"
-                    x="586.5"
-                  >前后相同的部分可以省略</text>
+                    x="586.5">The same parts before and after can be omitted</text>
                 </g>
               </g>
               <g id="minder_node110">
@@ -3160,8 +3084,7 @@
                 <g id="node_text187" fill="black">
                   <text
                     id="kity_text_895" text-rendering="inherit" font-size="24" dy=".8em" y="2635.699999809265"
-                    x="413.5"
-                  >主从复合句</text>
+                    x="413.5">Master-slave compound sentence</text>
                 </g>
               </g>
               <g id="minder_node111">
@@ -3179,8 +3102,7 @@
                 <g id="node_text123" fill="#ff0000">
                   <text
                     id="kity_text_767" text-rendering="inherit" font-size="24" dy=".8em" font-weight="bold"
-                    y="2151.699999809265" x="559.5"
-                  >名词性从句（4 类）</text>
+                    y="2151.699999809265" x="559.5">Noun clause (category 4)</text>
                 </g>
               </g>
               <g id="minder_node112">
@@ -3198,8 +3120,7 @@
                 <g id="node_text111" fill="black">
                   <text
                     id="kity_text_743" text-rendering="inherit" font-size="24" dy=".8em" y="2080.699999809265"
-                    x="802.5"
-                  >写法基本相同</text>
+                    x="802.5">The writing method is basically the same</text>
                 </g>
               </g>
               <g id="minder_node113">
@@ -3217,8 +3138,7 @@
                 <g id="node_text110" fill="black">
                   <text
                     id="kity_text_741" text-rendering="inherit" font-size="24" dy=".8em" y="2080.699999809265"
-                    x="972.5"
-                  >连接词</text>
+                    x="972.5">Connectives</text>
                 </g>
               </g>
               <g id="minder_node114">
@@ -3255,8 +3175,7 @@
                 <g id="node_text122" fill="black">
                   <text
                     id="kity_text_765" text-rendering="inherit" font-size="24" dy=".8em" y="2222.699999809265"
-                    x="802.5"
-                  >位置不同</text>
+                    x="802.5">Different locations</text>
                 </g>
               </g>
               <g id="minder_node116">
@@ -3274,8 +3193,7 @@
                 <g id="node_text114" fill="black">
                   <text
                     id="kity_text_749" text-rendering="inherit" font-size="24" dy=".8em" y="2137.699999809265"
-                    x="924.5"
-                  >宾从</text>
+                    x="924.5">Guest</text>
                 </g>
               </g>
               <g id="minder_node117">
@@ -3293,8 +3211,7 @@
                 <g id="node_text112" fill="black">
                   <text
                     id="kity_text_745" text-rendering="inherit" font-size="24" dy=".8em" y="2118.699999809265"
-                    x="998.5"
-                  >及物动词后</text>
+                    x="998.5">After transitive verb</text>
                 </g>
               </g>
               <g id="minder_node118">
@@ -3312,8 +3229,7 @@
                 <g id="node_text113" fill="black">
                   <text
                     id="kity_text_747" text-rendering="inherit" font-size="24" dy=".8em" y="2156.699999809265"
-                    x="998.5"
-                  >介词后</text>
+                    x="998.5">After preposition</text>
                 </g>
               </g>
               <g id="minder_node119">
@@ -3331,8 +3247,7 @@
                 <g id="node_text116" fill="black">
                   <text
                     id="kity_text_753" text-rendering="inherit" font-size="24" dy=".8em" y="2194.699999809265"
-                    x="924.5"
-                  >表从</text>
+                    x="924.5">Table from</text>
                 </g>
               </g>
               <g id="minder_node120">
@@ -3350,8 +3265,7 @@
                 <g id="node_text115" fill="black">
                   <text
                     id="kity_text_751" text-rendering="inherit" font-size="24" dy=".8em" y="2194.699999809265"
-                    x="998.5"
-                  >系动词后（最常用 be）</text>
+                    x="998.5">After the verb (most commonly used be)</text>
                 </g>
               </g>
               <g id="minder_node121">
@@ -3369,8 +3283,7 @@
                 <g id="node_text119" fill="black">
                   <text
                     id="kity_text_759" text-rendering="inherit" font-size="24" dy=".8em" y="2251.699999809265"
-                    x="924.5"
-                  >主从</text>
+                    x="924.5">Master-slave</text>
                 </g>
               </g>
               <g id="minder_node122">
@@ -3388,8 +3301,7 @@
                 <g id="node_text117" fill="black">
                   <text
                     id="kity_text_755" text-rendering="inherit" font-size="24" dy=".8em" y="2232.699999809265"
-                    x="998.5"
-                  >句首</text>
+                    x="998.5">Sentence beginning</text>
                 </g>
               </g>
               <g id="minder_node123">
@@ -3407,8 +3319,7 @@
                 <g id="node_text118" fill="black">
                   <text
                     id="kity_text_757" text-rendering="inherit" font-size="24" dy=".8em" y="2270.699999809265"
-                    x="998.5"
-                  >句尾（句首用形式主语It）</text>
+                    x="998.5">End of sentence (formal subject It is used at the beginning of the sentence)</text>
                 </g>
               </g>
               <g id="minder_node124">
@@ -3426,8 +3337,7 @@
                 <g id="node_text121" fill="black">
                   <text
                     id="kity_text_763" text-rendering="inherit" font-size="24" dy=".8em" y="2308.699999809265"
-                    x="924.5"
-                  >同位从</text>
+                    x="924.5">Same position</text>
                 </g>
               </g>
               <g id="minder_node125">
@@ -3445,8 +3355,7 @@
                 <g id="node_text120" fill="black">
                   <text
                     id="kity_text_761" text-rendering="inherit" font-size="24" dy=".8em" y="2308.699999809265"
-                    x="1022.5"
-                  >抽象名词后</text>
+                    x="1022.5">After abstract noun</text>
                 </g>
               </g>
               <g id="minder_node126">
@@ -3464,8 +3373,7 @@
                 <g id="node_text140" fill="black">
                   <text
                     id="kity_text_801" text-rendering="inherit" font-size="24" dy=".8em" y="2545.699999809265"
-                    x="559.5"
-                  >定语从句</text>
+                    x="559.5">Attributive clause</text>
                 </g>
               </g>
               <g id="minder_node127">
@@ -3483,8 +3391,7 @@
                 <g id="node_text126" fill="black">
                   <text
                     id="kity_text_773" text-rendering="inherit" font-size="24" dy=".8em" y="2365.699999809265"
-                    x="681.5"
-                  >概述</text>
+                    x="681.5">Overview</text>
                 </g>
               </g>
               <g id="minder_node128">
@@ -3502,8 +3409,7 @@
                 <g id="node_text124" fill="black">
                   <text
                     id="kity_text_769" text-rendering="inherit" font-size="24" dy=".8em" y="2346.699999809265"
-                    x="755.5"
-                  >关系词</text>
+                    x="755.5">Relation words</text>
                 </g>
               </g>
               <g id="minder_node129">
@@ -3521,8 +3427,7 @@
                 <g id="node_text125" fill="black">
                   <text
                     id="kity_text_771" text-rendering="inherit" font-size="24" dy=".8em" y="2384.699999809265"
-                    x="755.5"
-                  >先行词</text>
+                    x="755.5">Antecedent</text>
                 </g>
               </g>
               <g id="minder_node130">
@@ -3540,8 +3445,7 @@
                 <g id="node_text134" fill="#ff0000">
                   <text
                     id="kity_text_789" text-rendering="inherit" font-size="24" dy=".8em" y="2517.699999809265"
-                    x="681.5"
-                  >写法</text>
+                    x="681.5">Writing</text>
                 </g>
               </g>
               <g id="minder_node131">
@@ -3559,8 +3463,7 @@
                 <g id="node_text133" fill="black">
                   <text
                     id="kity_text_787" text-rendering="inherit" font-size="24" dy=".8em" y="2517.699999809265"
-                    x="755.5"
-                  >关系词选择看先行词</text>
+                    x="755.5">Select relative words based on the antecedent</text>
                 </g>
               </g>
               <g id="minder_node132">
@@ -3578,8 +3481,7 @@
                 <g id="node_text127" fill="black">
                   <text
                     id="kity_text_775" text-rendering="inherit" font-size="24" dy=".8em" y="2422.699999809265"
-                    x="997.5"
-                  >事/物=which/that</text>
+                    x="997.5">Thing/thing=which/that</text>
                 </g>
               </g>
               <g id="minder_node133">
@@ -3597,8 +3499,7 @@
                 <g id="node_text128" fill="black">
                   <text
                     id="kity_text_777" text-rendering="inherit" font-size="24" dy=".8em" y="2460.699999809265"
-                    x="997.5"
-                  >人=who/whom/that</text>
+                    x="997.5">People=who/whom/that</text>
                 </g>
               </g>
               <g id="minder_node134">
@@ -3616,8 +3517,7 @@
                 <g id="node_text129" fill="black">
                   <text
                     id="kity_text_779" text-rendering="inherit" font-size="24" dy=".8em" y="2498.699999809265"
-                    x="997.5"
-                  >人/物的=whose</text>
+                    x="997.5">People/things=whose</text>
                 </g>
               </g>
               <g id="minder_node135">
@@ -3635,8 +3535,7 @@
                 <g id="node_text130" fill="black">
                   <text
                     id="kity_text_781" text-rendering="inherit" font-size="24" dy=".8em" y="2536.699999809265"
-                    x="997.5"
-                  >时间=when</text>
+                    x="997.5">Time=when</text>
                 </g>
               </g>
               <g id="minder_node136">
@@ -3654,8 +3553,7 @@
                 <g id="node_text131" fill="black">
                   <text
                     id="kity_text_783" text-rendering="inherit" font-size="24" dy=".8em" y="2574.699999809265"
-                    x="997.5"
-                  >地点=where</text>
+                    x="997.5">Location=where</text>
                 </g>
               </g>
               <g id="minder_node137">
@@ -3673,8 +3571,7 @@
                 <g id="node_text132" fill="black">
                   <text
                     id="kity_text_785" text-rendering="inherit" font-size="24" dy=".8em" y="2612.699999809265"
-                    x="997.5"
-                  >原因=why</text>
+                    x="997.5">reason=why</text>
                 </g>
               </g>
               <g id="minder_node138">
@@ -3692,8 +3589,7 @@
                 <g id="node_text137" fill="black">
                   <text
                     id="kity_text_795" text-rendering="inherit" font-size="24" dy=".8em" y="2669.699999809265"
-                    x="681.5"
-                  >分类</text>
+                    x="681.5">Category</text>
                 </g>
               </g>
               <g id="minder_node139">
@@ -3711,8 +3607,7 @@
                 <g id="node_text135" fill="black">
                   <text
                     id="kity_text_791" text-rendering="inherit" font-size="24" dy=".8em" y="2650.699999809265"
-                    x="757.5"
-                  >限定定语从句</text>
+                    x="757.5">Defining attributive clause</text>
                 </g>
               </g>
               <g id="minder_node140">
@@ -3730,8 +3625,7 @@
                 <g id="node_text136" fill="black">
                   <text
                     id="kity_text_793" text-rendering="inherit" font-size="24" dy=".8em" y="2688.699999809265"
-                    x="757.5"
-                  >非限定定语从句——确定的</text>
+                    x="757.5">Non-finite attributive clause - definite</text>
                 </g>
               </g>
               <g id="minder_node141">
@@ -3749,8 +3643,7 @@
                 <g id="node_text139" fill="black">
                   <text
                     id="kity_text_799" text-rendering="inherit" font-size="24" dy=".8em" y="2726.699999809265"
-                    x="681.5"
-                  >补充</text>
+                    x="681.5">Supplement</text>
                 </g>
               </g>
               <g id="minder_node142">
@@ -3768,8 +3661,7 @@
                 <g id="node_text138" fill="black">
                   <text
                     id="kity_text_797" text-rendering="inherit" font-size="24" dy=".8em" y="2726.699999809265"
-                    x="755.5"
-                  >介词提前</text>
+                    x="755.5">Preposition in advance</text>
                 </g>
               </g>
               <g id="minder_node143">
@@ -3787,8 +3679,7 @@
                 <g id="node_text186" fill="#ff0000">
                   <text
                     id="kity_text_893" text-rendering="inherit" font-size="24" dy=".8em" font-weight="bold"
-                    y="3120.699999809265" x="559.5"
-                  >状语从句</text>
+                    y="3120.699999809265" x="559.5">Adverbial clause</text>
                 </g>
               </g>
               <g id="minder_node144">
@@ -3806,8 +3697,7 @@
                 <g id="node_text142" fill="black">
                   <text
                     id="kity_text_805" text-rendering="inherit" font-size="24" dy=".8em" y="2764.699999809265"
-                    x="681.5"
-                  >含义</text>
+                    x="681.5">Meaning</text>
                 </g>
               </g>
               <g id="minder_node145">
@@ -3825,8 +3715,7 @@
                 <g id="node_text141" fill="black">
                   <text
                     id="kity_text_803" text-rendering="inherit" font-size="24" dy=".8em" y="2764.699999809265"
-                    x="755.5"
-                  >一个句子作状语，表达描述性的信息</text>
+                    x="755.5">A sentence is used as an adverbial to express descriptive information</text>
                 </g>
               </g>
               <g id="minder_node146">
@@ -3844,8 +3733,7 @@
                 <g id="node_text144" fill="black">
                   <text
                     id="kity_text_809" text-rendering="inherit" font-size="24" dy=".8em" y="2802.699999809265"
-                    x="681.5"
-                  >写法</text>
+                    x="681.5">Writing</text>
                 </g>
               </g>
               <g id="minder_node147">
@@ -3863,8 +3751,7 @@
                 <g id="node_text143" fill="black">
                   <text
                     id="kity_text_807" text-rendering="inherit" font-size="24" dy=".8em" y="2802.699999809265"
-                    x="755.5"
-                  >从属连词+陈述句</text>
+                    x="755.5">Subordinating conjunction + declarative sentence</text>
                 </g>
               </g>
               <g id="minder_node148">
@@ -3882,8 +3769,7 @@
                 <g id="node_text148" fill="black">
                   <text
                     id="kity_text_817" text-rendering="inherit" font-size="24" dy=".8em" y="2878.699999809265"
-                    x="681.5"
-                  >位置</text>
+                    x="681.5">Location</text>
                 </g>
               </g>
               <g id="minder_node149">
@@ -3901,8 +3787,7 @@
                 <g id="node_text145" fill="black">
                   <text
                     id="kity_text_811" text-rendering="inherit" font-size="24" dy=".8em" y="2840.699999809265"
-                    x="755.5"
-                  >主句前</text>
+                    x="755.5">Before the main clause</text>
                 </g>
               </g>
               <g id="minder_node150">
@@ -3920,8 +3805,7 @@
                 <g id="node_text146" fill="black">
                   <text
                     id="kity_text_813" text-rendering="inherit" font-size="24" dy=".8em" y="2878.699999809265"
-                    x="755.5"
-                  >主句后</text>
+                    x="755.5">After the main clause</text>
                 </g>
               </g>
               <g id="minder_node151">
@@ -3939,8 +3823,7 @@
                 <g id="node_text147" fill="black">
                   <text
                     id="kity_text_815" text-rendering="inherit" font-size="24" dy=".8em" y="2916.699999809265"
-                    x="755.5"
-                  >主句中（作插入语）</text>
+                    x="755.5">In the main sentence (as an interjection)</text>
                 </g>
               </g>
               <g id="minder_node152">
@@ -3958,8 +3841,7 @@
                 <g id="node_text185" fill="black">
                   <text
                     id="kity_text_891" text-rendering="inherit" font-size="24" dy=".8em" y="3476.699999809265"
-                    x="681.5"
-                  >位置由从属连词决定</text>
+                    x="681.5">The position is determined by the subordinating conjunction</text>
                 </g>
               </g>
               <g id="minder_node153">
@@ -3977,8 +3859,7 @@
                 <g id="node_text156" fill="#ff0000">
                   <text
                     id="kity_text_833" text-rendering="inherit" font-size="24" dy=".8em" y="3068.699999809265"
-                    x="923.5"
-                  >时间</text>
+                    x="923.5">Time</text>
                 </g>
               </g>
               <g id="minder_node154">
@@ -4129,8 +4010,7 @@
                 <g id="node_text158" fill="black">
                   <text
                     id="kity_text_837" text-rendering="inherit" font-size="24" dy=".8em" y="3220.699999809265"
-                    x="923.5"
-                  >地点</text>
+                    x="923.5">Location</text>
                 </g>
               </g>
               <g id="minder_node162">
@@ -4167,8 +4047,7 @@
                 <g id="node_text162" fill="#ff0000">
                   <text
                     id="kity_text_845" text-rendering="inherit" font-size="24" dy=".8em" y="3296.699999809265"
-                    x="923.5"
-                  >原因</text>
+                    x="923.5">Reason</text>
                 </g>
               </g>
               <g id="minder_node164">
@@ -4243,8 +4122,7 @@
                 <g id="node_text166" fill="#ff0000">
                   <text
                     id="kity_text_853" text-rendering="inherit" font-size="24" dy=".8em" y="3410.699999809265"
-                    x="923.5"
-                  >结果</text>
+                    x="923.5">Results</text>
                 </g>
               </g>
               <g id="minder_node168">
@@ -4319,8 +4197,7 @@
                 <g id="node_text169" fill="black">
                   <text
                     id="kity_text_859" text-rendering="inherit" font-size="24" dy=".8em" y="3505.699999809265"
-                    x="923.5"
-                  >目的</text>
+                    x="923.5">Purpose</text>
                 </g>
               </g>
               <g id="minder_node172">
@@ -4376,8 +4253,7 @@
                 <g id="node_text171" fill="black">
                   <text
                     id="kity_text_863" text-rendering="inherit" font-size="24" dy=".8em" y="3562.699999809265"
-                    x="923.5"
-                  >方式</text>
+                    x="923.5">Method</text>
                 </g>
               </g>
               <g id="minder_node175">
@@ -4414,8 +4290,7 @@
                 <g id="node_text174" fill="black">
                   <text
                     id="kity_text_869" text-rendering="inherit" font-size="24" dy=".8em" y="3619.699999809265"
-                    x="923.5"
-                  >比较</text>
+                    x="923.5">Compare</text>
                 </g>
               </g>
               <g id="minder_node177">
@@ -4471,8 +4346,7 @@
                 <g id="node_text179" fill="black">
                   <text
                     id="kity_text_879" text-rendering="inherit" font-size="24" dy=".8em" y="3733.699999809265"
-                    x="923.5"
-                  >让步</text>
+                    x="923.5">Concession</text>
                 </g>
               </g>
               <g id="minder_node180">
@@ -4566,8 +4440,7 @@
                 <g id="node_text184" fill="#ff0000">
                   <text
                     id="kity_text_889" text-rendering="inherit" font-size="24" dy=".8em" y="3885.699999809265"
-                    x="923.5"
-                  >条件</text>
+                    x="923.5">Conditions</text>
                 </g>
               </g>
               <g id="minder_node185">
@@ -4662,12 +4535,10 @@
                 <g id="node_text247" fill="black">
                   <text
                     id="kity_text_1017" text-rendering="inherit" font-size="24" dy=".8em" y="4574.699999809265"
-                    x="204.5"
-                  >如何解决特</text>
+                    x="204.5">How to solve the problem</text>
                   <text
                     id="kity_text_1018" text-rendering="inherit" font-size="24" dy=".8em" y="4610.699999809265"
-                    x="204.5"
-                  >殊句式和长难句</text>
+                    x="204.5">Special sentence patterns and long difficult sentences</text>
                 </g>
                 <g id="node_priority3">
                   <path
@@ -4700,8 +4571,7 @@
                 <g id="node_text199" fill="black">
                   <text
                     id="kity_text_919" text-rendering="inherit" font-size="24" dy=".8em" y="4078.699999809265"
-                    x="413.5"
-                  >特殊结构</text>
+                    x="413.5">Special structure</text>
                 </g>
               </g>
               <g id="minder_node191">
@@ -4719,8 +4589,7 @@
                 <g id="node_text194" fill="black">
                   <text
                     id="kity_text_909" text-rendering="inherit" font-size="24" dy=".8em" y="4035.699999809265"
-                    x="536.5"
-                  >分裂</text>
+                    x="536.5">Split</text>
                 </g>
               </g>
               <g id="minder_node192">
@@ -4738,8 +4607,7 @@
                 <g id="node_text191" fill="black">
                   <text
                     id="kity_text_903" text-rendering="inherit" font-size="24" dy=".8em" y="4007.699999809265"
-                    x="611.5"
-                  >成分</text>
+                    x="611.5">Ingredients</text>
                 </g>
               </g>
               <g id="minder_node193">
@@ -4757,8 +4625,7 @@
                 <g id="node_text189" fill="black">
                   <text
                     id="kity_text_899" text-rendering="inherit" font-size="24" dy=".8em" y="3988.699999809265"
-                    x="687.5"
-                  >同位语</text>
+                    x="687.5">Appositive</text>
                 </g>
               </g>
               <g id="minder_node194">
@@ -4776,8 +4643,7 @@
                 <g id="node_text190" fill="black">
                   <text
                     id="kity_text_901" text-rendering="inherit" font-size="24" dy=".8em" y="4026.699999809265"
-                    x="687.5"
-                  >插入语</text>
+                    x="687.5">Insert</text>
                 </g>
               </g>
               <g id="minder_node195">
@@ -4795,8 +4661,7 @@
                 <g id="node_text193" fill="black">
                   <text
                     id="kity_text_907" text-rendering="inherit" font-size="24" dy=".8em" y="4064.699999809265"
-                    x="611.5"
-                  >特点</text>
+                    x="611.5">Features</text>
                 </g>
               </g>
               <g id="minder_node196">
@@ -4814,8 +4679,7 @@
                 <g id="node_text192" fill="black">
                   <text
                     id="kity_text_905" text-rendering="inherit" font-size="24" dy=".8em" y="4064.699999809265"
-                    x="686.5"
-                  >成对的标点：括号/破折号/逗号</text>
+                    x="686.5">Paired punctuation: brackets/dash/comma</text>
                 </g>
               </g>
               <g id="minder_node197">
@@ -4833,8 +4697,7 @@
                 <g id="node_text198" fill="black">
                   <text
                     id="kity_text_917" text-rendering="inherit" font-size="24" dy=".8em" y="4121.699999809265"
-                    x="536.5"
-                  >平行</text>
+                    x="536.5">Parallel</text>
                 </g>
               </g>
               <g id="minder_node198">
@@ -4852,8 +4715,7 @@
                 <g id="node_text197" fill="black">
                   <text
                     id="kity_text_915" text-rendering="inherit" font-size="24" dy=".8em" y="4121.699999809265"
-                    x="610.5"
-                  >特点</text>
+                    x="610.5">Features</text>
                 </g>
               </g>
               <g id="minder_node199">
@@ -4871,8 +4733,7 @@
                 <g id="node_text195" fill="black">
                   <text
                     id="kity_text_911" text-rendering="inherit" font-size="24" dy=".8em" y="4102.699999809265"
-                    x="685.5"
-                  >成分之间：词性相同、结构一致</text>
+                    x="685.5">Between components: same part of speech and consistent structure</text>
                 </g>
               </g>
               <g id="minder_node200">
@@ -4890,8 +4751,7 @@
                 <g id="node_text196" fill="black">
                   <text
                     id="kity_text_913" text-rendering="inherit" font-size="24" dy=".8em" y="4140.699999809265"
-                    x="685.5"
-                  >并列连词</text>
+                    x="685.5">Coordinating conjunctions</text>
                 </g>
               </g>
               <g id="minder_node201">
@@ -4909,8 +4769,7 @@
                 <g id="node_text236" fill="black">
                   <text
                     id="kity_text_995" text-rendering="inherit" font-size="24" dy=".8em" y="4677.699999809265"
-                    x="413.5"
-                  >特殊句式</text>
+                    x="413.5">Special sentence patterns</text>
                 </g>
               </g>
               <g id="minder_node202">
@@ -4928,8 +4787,7 @@
                 <g id="node_text219" fill="black">
                   <text
                     id="kity_text_960" text-rendering="inherit" font-size="24" dy=".8em" y="4484.699999809265"
-                    x="536.5"
-                  >虚拟（非真实）</text>
+                    x="536.5">Virtual (not real)</text>
                 </g>
               </g>
               <g id="minder_node203">
@@ -4947,12 +4805,10 @@
                 <g id="node_text216" fill="black">
                   <text
                     id="kity_text_953" text-rendering="inherit" font-size="24" dy=".8em" y="4373.699999809265"
-                    x="731.5"
-                  >if 条件句</text>
+                    x="731.5">if conditional sentence</text>
                   <text
                     id="kity_text_954" text-rendering="inherit" font-size="24" dy=".8em" y="4409.699999809265"
-                    x="731.5"
-                  >从句往前推，主句 4+1，将来同现在</text>
+                    x="731.5">The subordinate clause is pushed forward, the main clause is 4+1, and the future is the same as the present</text>
                 </g>
               </g>
               <g id="minder_node204">
@@ -4970,8 +4826,7 @@
                 <g id="node_text206" fill="black">
                   <text
                     id="kity_text_933" text-rendering="inherit" font-size="24" dy=".8em" y="4225.699999809265"
-                    x="1138.5"
-                  >假设过去</text>
+                    x="1138.5">Assume the past</text>
                 </g>
               </g>
               <g id="minder_node205">
@@ -4989,8 +4844,7 @@
                 <g id="node_text200" fill="black">
                   <text
                     id="kity_text_921" text-rendering="inherit" font-size="24" dy=".8em" y="4178.699999809265"
-                    x="1261.5"
-                  >if 从句：had done</text>
+                    x="1261.5">if clause: had done</text>
                 </g>
               </g>
               <g id="minder_node206">
@@ -5008,8 +4862,7 @@
                 <g id="node_text205" fill="black">
                   <text
                     id="kity_text_931" text-rendering="inherit" font-size="24" dy=".8em" y="4273.699999809265"
-                    x="1261.5"
-                  >主句 4+1</text>
+                    x="1261.5">Main clause 4+1</text>
                 </g>
               </g>
               <g id="minder_node207">
@@ -5103,8 +4956,7 @@
                 <g id="node_text213" fill="black">
                   <text
                     id="kity_text_947" text-rendering="inherit" font-size="24" dy=".8em" y="4415.699999809265"
-                    x="1138.5"
-                  >假设现在</text>
+                    x="1138.5">Suppose now</text>
                 </g>
               </g>
               <g id="minder_node212">
@@ -5122,8 +4974,7 @@
                 <g id="node_text207" fill="black">
                   <text
                     id="kity_text_935" text-rendering="inherit" font-size="24" dy=".8em" y="4368.699999809265"
-                    x="1261.5"
-                  >if 从句：did (were)</text>
+                    x="1261.5">if clause: did (were)</text>
                 </g>
               </g>
               <g id="minder_node213">
@@ -5141,8 +4992,7 @@
                 <g id="node_text212" fill="black">
                   <text
                     id="kity_text_945" text-rendering="inherit" font-size="24" dy=".8em" y="4463.699999809265"
-                    x="1261.5"
-                  >主句 4+1</text>
+                    x="1261.5">Main clause 4+1</text>
                 </g>
               </g>
               <g id="minder_node214">
@@ -5236,8 +5086,7 @@
                 <g id="node_text215" fill="black">
                   <text
                     id="kity_text_951" text-rendering="inherit" font-size="24" dy=".8em" y="4557.699999809265"
-                    x="1138.5"
-                  >假设将来</text>
+                    x="1138.5">Hypothetical future</text>
                 </g>
               </g>
               <g id="minder_node219">
@@ -5255,8 +5104,7 @@
                 <g id="node_text214" fill="black">
                   <text
                     id="kity_text_949" text-rendering="inherit" font-size="24" dy=".8em" y="4557.699999809265"
-                    x="1261.5"
-                  >同现在</text>
+                    x="1261.5">Same as now</text>
                 </g>
               </g>
               <g id="minder_node220">
@@ -5274,8 +5122,7 @@
                 <g id="node_text218" fill="black">
                   <text
                     id="kity_text_958" text-rendering="inherit" font-size="24" dy=".8em" y="4595.699999809265"
-                    x="731.5"
-                  >宾语从句</text>
+                    x="731.5">Object clause</text>
                 </g>
               </g>
               <g id="minder_node221">
@@ -5293,8 +5140,7 @@
                 <g id="node_text217" fill="black">
                   <text
                     id="kity_text_956" text-rendering="inherit" font-size="24" dy=".8em" y="4595.699999809265"
-                    x="853.5"
-                  >表示命令/要求：should + do</text>
+                    x="853.5">Indicates command/requirement: should + do</text>
                 </g>
               </g>
               <g id="minder_node222">
@@ -5312,8 +5158,7 @@
                 <g id="node_text228" fill="black">
                   <text
                     id="kity_text_978" text-rendering="inherit" font-size="24" dy=".8em" y="4700.699999809265"
-                    x="536.5"
-                  >倒装</text>
+                    x="536.5">Inversion</text>
                 </g>
               </g>
               <g id="minder_node223">
@@ -5331,8 +5176,7 @@
                 <g id="node_text223" fill="black">
                   <text
                     id="kity_text_968" text-rendering="inherit" font-size="24" dy=".8em" y="4653.699999809265"
-                    x="611.5"
-                  >全部倒装</text>
+                    x="611.5">Invert all</text>
                 </g>
               </g>
               <g id="minder_node224">
@@ -5350,8 +5194,7 @@
                 <g id="node_text222" fill="black">
                   <text
                     id="kity_text_966" text-rendering="inherit" font-size="24" dy=".8em" y="4653.699999809265"
-                    x="733.5"
-                  >句型：there be</text>
+                    x="733.5">Sentence pattern: there be</text>
                 </g>
               </g>
               <g id="minder_node225">
@@ -5369,8 +5212,7 @@
                 <g id="node_text220" fill="black">
                   <text
                     id="kity_text_962" text-rendering="inherit" font-size="24" dy=".8em" y="4634.699999809265"
-                    x="929.5"
-                  >表示：有、客观存在</text>
+                    x="929.5">Indicates: existence, objective existence</text>
                 </g>
               </g>
               <g id="minder_node226">
@@ -5388,8 +5230,7 @@
                 <g id="node_text221" fill="black">
                   <text
                     id="kity_text_964" text-rendering="inherit" font-size="24" dy=".8em" y="4672.699999809265"
-                    x="929.5"
-                  >there be + n. + 介词短语</text>
+                    x="929.5">there be + n. + prepositional phrase</text>
                 </g>
               </g>
               <g id="minder_node227">
@@ -5407,8 +5248,7 @@
                 <g id="node_text227" fill="black">
                   <text
                     id="kity_text_976" text-rendering="inherit" font-size="24" dy=".8em" y="4748.699999809265"
-                    x="611.5"
-                  >部分倒装</text>
+                    x="611.5">Partial inversion</text>
                 </g>
               </g>
               <g id="minder_node228">
@@ -5426,8 +5266,7 @@
                 <g id="node_text224" fill="black">
                   <text
                     id="kity_text_970" text-rendering="inherit" font-size="24" dy=".8em" y="4710.699999809265"
-                    x="733.5"
-                  >否定词句首</text>
+                    x="733.5">The beginning of negative words</text>
                 </g>
               </g>
               <g id="minder_node229">
@@ -5445,8 +5284,7 @@
                 <g id="node_text225" fill="black">
                   <text
                     id="kity_text_972" text-rendering="inherit" font-size="24" dy=".8em" y="4748.699999809265"
-                    x="733.5"
-                  >only句首</text>
+                    x="733.5">only the beginning of the sentence</text>
                 </g>
               </g>
               <g id="minder_node230">
@@ -5464,8 +5302,7 @@
                 <g id="node_text226" fill="black">
                   <text
                     id="kity_text_974" text-rendering="inherit" font-size="24" dy=".8em" y="4786.699999809265"
-                    x="733.5"
-                  >虚拟条件句省略 if</text>
+                    x="733.5">The virtual conditional sentence is omitted if</text>
                 </g>
               </g>
               <g id="minder_node231">
@@ -5483,8 +5320,7 @@
                 <g id="node_text235" fill="black">
                   <text
                     id="kity_text_993" text-rendering="inherit" font-size="24" dy=".8em" y="4870.699999809265"
-                    x="536.5"
-                  >强调</text>
+                    x="536.5">Emphasis</text>
                 </g>
               </g>
               <g id="minder_node232">
@@ -5502,8 +5338,7 @@
                 <g id="node_text230" fill="black">
                   <text
                     id="kity_text_982" text-rendering="inherit" font-size="24" dy=".8em" y="4823.699999809265"
-                    x="610.5"
-                  >构成</text>
+                    x="610.5">Composition</text>
                 </g>
               </g>
               <g id="minder_node233">
@@ -5540,8 +5375,7 @@
                 <g id="node_text234" fill="black">
                   <text
                     id="kity_text_991" text-rendering="inherit" font-size="24" dy=".8em" y="4917.699999809265"
-                    x="610.5"
-                  >变化</text>
+                    x="610.5">Change</text>
                 </g>
               </g>
               <g id="minder_node235">
@@ -5578,8 +5412,7 @@
                 <g id="node_text232" fill="black">
                   <text
                     id="kity_text_986" text-rendering="inherit" font-size="24" dy=".8em" y="4899.699999809265"
-                    x="684.5"
-                  >不能强调形容词、动词</text>
+                    x="684.5">Cannot emphasize adjectives and verbs</text>
                 </g>
               </g>
               <g id="minder_node237">
@@ -5597,12 +5430,10 @@
                 <g id="node_text233" fill="black">
                   <text
                     id="kity_text_988" text-rendering="inherit" font-size="24" dy=".8em" y="4937.699999809265"
-                    x="684.5"
-                  >与主语从句的区别：</text>
+                    x="684.5">Difference from subject clause:</text>
                   <text
                     id="kity_text_989" text-rendering="inherit" font-size="24" dy=".8em" y="4973.699999809265"
-                    x="684.5"
-                  >去掉 it is...that 剩下的句子是否组成一个完整的句子</text>
+                    x="684.5">Remove it is...that and whether the remaining sentences form a complete sentence</text>
                 </g>
               </g>
               <g id="minder_node238">
@@ -5620,8 +5451,7 @@
                 <g id="node_text246" fill="black">
                   <text
                     id="kity_text_1015" text-rendering="inherit" font-size="24" dy=".8em" y="5106.699999809265"
-                    x="413.5"
-                  >综合应用</text>
+                    x="413.5">Comprehensive application</text>
                 </g>
               </g>
               <g id="minder_node239">
@@ -5639,8 +5469,7 @@
                 <g id="node_text240" fill="black">
                   <text
                     id="kity_text_1003" text-rendering="inherit" font-size="24" dy=".8em" y="5049.699999809265"
-                    x="535.5"
-                  >断开</text>
+                    x="535.5">Disconnect</text>
                 </g>
               </g>
               <g id="minder_node240">
@@ -5658,8 +5487,7 @@
                 <g id="node_text237" fill="black">
                   <text
                     id="kity_text_997" text-rendering="inherit" font-size="24" dy=".8em" y="5011.699999809265"
-                    x="609.5"
-                  >标点</text>
+                    x="609.5">Punctuation</text>
                 </g>
               </g>
               <g id="minder_node241">
@@ -5677,8 +5505,7 @@
                 <g id="node_text238" fill="black">
                   <text
                     id="kity_text_999" text-rendering="inherit" font-size="24" dy=".8em" y="5049.699999809265"
-                    x="609.5"
-                  >连接词</text>
+                    x="609.5">Connectives</text>
                 </g>
               </g>
               <g id="minder_node242">
@@ -5696,8 +5523,7 @@
                 <g id="node_text239" fill="black">
                   <text
                     id="kity_text_1001" text-rendering="inherit" font-size="24" dy=".8em" y="5087.699999809265"
-                    x="609.5"
-                  >数谓语动词</text>
+                    x="609.5">Number predicate verb</text>
                 </g>
               </g>
               <g id="minder_node243">
@@ -5715,8 +5541,7 @@
                 <g id="node_text245" fill="black">
                   <text
                     id="kity_text_1013" text-rendering="inherit" font-size="24" dy=".8em" y="5163.699999809265"
-                    x="535.5"
-                  >简化</text>
+                    x="535.5">Simplify</text>
                 </g>
               </g>
               <g id="minder_node244">
@@ -5734,8 +5559,7 @@
                 <g id="node_text244" fill="black">
                   <text
                     id="kity_text_1011" text-rendering="inherit" font-size="24" dy=".8em" y="5163.699999809265"
-                    x="609.5"
-                  >去修饰，找核心</text>
+                    x="609.5">Go to modifications and find the core</text>
                 </g>
               </g>
               <g id="minder_node245">
@@ -5753,8 +5577,7 @@
                 <g id="node_text241" fill="black">
                   <text
                     id="kity_text_1005" text-rendering="inherit" font-size="24" dy=".8em" y="5125.699999809265"
-                    x="804.5"
-                  >介词短语</text>
+                    x="804.5">Prepositional phrase</text>
                 </g>
               </g>
               <g id="minder_node246">
@@ -5772,8 +5595,7 @@
                 <g id="node_text242" fill="black">
                   <text
                     id="kity_text_1007" text-rendering="inherit" font-size="24" dy=".8em" y="5163.699999809265"
-                    x="804.5"
-                  >形容词</text>
+                    x="804.5">Adjective</text>
                 </g>
               </g>
               <g id="minder_node247">
@@ -5791,8 +5613,7 @@
                 <g id="node_text243" fill="black">
                   <text
                     id="kity_text_1009" text-rendering="inherit" font-size="24" dy=".8em" y="5201.699999809265"
-                    x="804.5"
-                  >副词</text>
+                    x="804.5">Adverb</text>
                 </g>
               </g>
             </g>
@@ -5805,7 +5626,7 @@
 
 <style>
   .dark svg text {
-    font-family: "comic sans ms", system-ui;
+    font-family:"comic sans ms", system-ui;
     fill: #fff;
   }
 </style>

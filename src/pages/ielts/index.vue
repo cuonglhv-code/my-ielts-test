@@ -14,7 +14,7 @@ function play(word: string) {
     <div class="relative overflow-x-auto">
       <div>
         <router-link to="/ielts/practice">
-          练习
+          Practice
         </router-link>
       </div>
       <table class="w-full text-left text-sm text-gray-500 dark:text-gray-400">
@@ -25,16 +25,16 @@ function play(word: string) {
             </th>
             <th class="w-0 px-6 py-3" />
             <th scope="col" class="w-0 px-6 py-3">
-              考点词
+              Test words
             </th>
             <th scope="col" class="w-0 px-6 py-3">
-              词性
+              part of speech
             </th>
             <th scope="col" class="w-80 px-6 py-3">
-              词义
+              meaning
             </th>
             <th scope="col" class="px-6 py-3">
-              同义替换
+              synonymous substitution
             </th>
           </tr>
         </thead>

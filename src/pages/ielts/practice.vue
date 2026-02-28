@@ -33,12 +33,12 @@ function next(index: number) {
   if (i >= words.length)
     return
 
-  // 校验结果
+  //Verification results
   const cw = ws[index]
 
-  // 处理词
+  // Process words
   const practiceWord = cw.form.word.trim().toLowerCase()
-  const practiceReplace = cw.form.replaceStr.split(/[,，]/).map(v => v.trim().toLowerCase().replace(/\s+/g, ' '))
+  const practiceReplace = cw.form.replaceStr.split(/[,,]/).map(v => v.trim().toLowerCase().replace(/\s+/g, ' '))
   // window.console.log(practiceReplace, practiceWord)
 
   const errorWords = []
@@ -55,7 +55,7 @@ function next(index: number) {
 
   const nw = words[i]
   play(nw.word)
-  // 光标移动到下一个输入框
+  //Move the cursor to the next input box
   document.getElementById(`input_${i + 1}`)?.focus()
 }
 </script>
@@ -65,7 +65,7 @@ function next(index: number) {
     <div class="relative overflow-x-auto">
       <div>
         <button @click="() => { play(words[0].word) }">
-          开始
+          start
         </button>
       </div>
       <table class="w-full text-left text-sm text-gray-500 dark:text-gray-400">
@@ -76,16 +76,16 @@ function next(index: number) {
             </th>
 
             <th class="w-0 px-6 py-3">
-              词性
+              part of speech
             </th>
             <th class="w-20 px-6 py-3">
-              音频
+              Audio
             </th>
             <th class="px-6 py-3">
-              考点词/同义替换
+              Test word/synonym replacement
             </th>
             <th class="px-6 py-3">
-              结果
+              result
             </th>
           </tr>
         </thead>
@@ -114,7 +114,7 @@ function next(index: number) {
                 outline="none active:none"
                 spellcheck="false"
                 type="text"
-                placeholder="请输入..."
+                placeholder="Please enter..."
               >
               <div class="px-4">
                 {{ w.meaning }}
@@ -128,7 +128,7 @@ function next(index: number) {
                 outline="none active:none"
                 type="text"
                 spellcheck="false"
-                placeholder="请输入..."
+                placeholder="Please enter..."
                 @keydown.enter="next(i)"
               >
             </td>

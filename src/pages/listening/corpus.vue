@@ -8,11 +8,11 @@ function play(word) {
 }
 
 const keyword = ref('')
-const chapter = ref('Charpter2 拼写规范')
+const chapter = ref('Chapter2 Spelling Conventions')
 const chapters = [
-  'Charpter2 拼写规范',
-  'Charpter3 特别名词',
-  'Charpter4 形容词副词',
+  'Chapter2 Spelling Conventions',
+  'Chapter3 Special nouns',
+  'Chapter4 Adjective Adverb',
 ]
 
 const curCharpter = computed(() => {
@@ -30,9 +30,9 @@ const curCharpter = computed(() => {
   <div class="mt-6 items-center justify-between lg:flex">
     <div class="mb-4 lg:mb-0">
       <h3 class="mb-2 text-xl font-bold text-gray-900 dark:text-white">
-        听力真题语料库
+        Listening test corpus
       </h3>
-      <span class="text-base font-normal text-gray-500 dark:text-gray-400">包括各种词性、特殊训练</span>
+      <span class="text-base font-normal text-gray-500 dark:text-gray-400">Includes various parts of speech and special training</span>
     </div>
     <div class="items-center sm:flex">
       <div class="flex items-center">
@@ -41,7 +41,7 @@ const curCharpter = computed(() => {
           class="block w-full flex-1 border border-gray-300 rounded-lg bg-gray-50 p-2.5 text-sm text-gray-900 dark:border-gray-600 focus:border-blue-500 dark:bg-gray-700 dark:text-white focus:ring-blue-500 dark:focus:border-blue-500 dark:focus:ring-blue-500 dark:placeholder-gray-400"
         >
           <!-- <option value="">
-            全部章节
+            All chapters
           </option> -->
           <option
             v-for="k in chapters"
@@ -67,7 +67,7 @@ const curCharpter = computed(() => {
     </div>
   </div>
   <div class="mt-6">
-    <template v-if="chapter === 'Charpter2 拼写规范'">
+    <template v-if="chapter === 'Charpter2 spelling specifications'">
       <div class="mb-4 mt-6 items-center justify-between lg:flex">
         <div class="mb-4 lg:mb-0">
           <h3 class="mb-2 font-bold text-gray-900 dark:text-white">
@@ -109,7 +109,7 @@ const curCharpter = computed(() => {
             <th class="whitespace-nowrap px-6 py-4 font-medium text-gray-900 dark:text-white">
               <a
                 class="hover:underline"
-                :title="`在剑桥词典中查询 ${row[0][0]}`"
+                :title="`Search ${row[0][0]}` in Cambridge Dictionary"
                 :href="`https://dictionary.cambridge.org/dictionary/english-chinese-simplified/${row[0][0]}`"
                 target="_blank"
               >{{ row[0].join(', ') }}</a>
@@ -132,16 +132,16 @@ const curCharpter = computed(() => {
           </th>
           <th class="w-0 px-6 py-3" />
           <th scope="col" class="w-0 px-6 py-3">
-            考点词
+            Test words
           </th>
           <th scope="col" class="w-0 px-6 py-3">
-            词性
+            part of speech
           </th>
           <th scope="col" class="w-80 px-6 py-3">
-            词义
+            meaning
           </th>
           <th scope="col" class="px-6 py-3">
-            同义替换
+            synonymous substitution
           </th>
         </tr>
       </thead>
